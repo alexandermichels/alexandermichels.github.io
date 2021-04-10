@@ -5,9 +5,9 @@ title: cv
 nav: true
 ---
 
-[PDF version of my Curriculum Vitae](https://docs.google.com/viewer?url=https://github.com/alexandermichels/CV/raw/master/CurriculumVitae.pdf)
+[PDF version of my Curriculum Vitae](https://github.com/alexandermichels/CV/blob/master/CurriculumVitae.pdf)
 
-[PDF version of my Resume](https://docs.google.com/viewer?url=https://github.com/alexandermichels/CV/raw/master/Resume.pdf).
+[PDF version of my Resume](https://github.com/alexandermichels/CV/blob/master/Resume.pdf).
 
 
 ## Table of Contents
@@ -77,34 +77,33 @@ August 2015 - December 2018
 
 ## [Awards](#awards)
 
-**UIUC GIS Day Virtual Student Poster Competition**, November 2020  
-Third Place  
-UIUC Department of Geography & Geographic Information Systems
+**UIUC GIS Day Virtual Student Poster Competition**  
+Third Place | November 2020  
+UIUC Department of Geography & Geographic Information Systems  
 
-**Cyberinfrastructure Specialty Group Robert Raskin Student Competition**, April 2020  
-First Place for Research in Geospatial Cyberinfrastructure  
-CyberInfrastructure Specialty Group (CISG) of the American Association of Geographers (AAG)
+**Cyberinfrastructure Specialty Group Robert Raskin Student Competition**  
+First Place for Research in Geospatial Cyberinfrastructure | April 2020  
+CyberInfrastructure Specialty Group (CISG) of the American Association of Geographers (AAG)  
 
-**UCGIS Prize for Advances in Geospatial Problem Solving**, July 2019  
-Advancing Reproducibility in Geospatial Research at the AAG-UCGIS Summer School 2019  
-American Association of Geographers (AAG), University Consortium for Geographic Information Science (UCGIS)
+**UCGIS Prize for Advances in Geospatial Problem Solving**  
+Advancing Reproducibility in Geospatial Research at the AAG-UCGIS Summer School 2019 | July 2019  
+American Association of Geographers (AAG), University Consortium for Geographic Information Science (UCGIS)  
 
-**Best Robot in Division Prize for Senior Unique Division**, April 2018  
-Robot in the Division with the lowest Total Final Scores  
-Trinity Fire Fighting Robot Contest
+**Best Robot in Division Prize for Senior Unique Division**  
+Robot in the Division with the lowest Total Final Scores | April 2018  
+Trinity Fire Fighting Robot Contest  
 
-**North America Award for Level 2**, April 2018  
-The top North American robot in Level 2  
-Trinity Fire Fighting Robot Contest
+**North America Award for Level 2**  
+The top North American robot in Level 2 | April 2018  
+Trinity Fire Fighting Robot Contest  
 
-**Dr. Thomas R. Nealeigh Mathematics Scholarship**, March 2018  
-Awarded to an outstanding junior or senior mathematics major  
-Westminster College
+**Dr. Thomas R. Nealeigh Mathematics Scholarship**  
+Awarded to an outstanding junior or senior mathematics major | March 2018  
+Westminster College  
 
-**COMAP International Mathematical Modeling Competition Honorable Mention**, January 2017  
-Excellent Modeling and Sensitivity Analysis  
-COMAP International Mathematical Modeling Competition
-
+**COMAP International Mathematical Modeling Competition Honorable Mention**  
+Excellent Modeling and Sensitivity Analysis | January 2017  
+COMAP International Mathematical Modeling Competition  
 
 
 <a id="pub" />

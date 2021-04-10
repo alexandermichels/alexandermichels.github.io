@@ -1,0 +1,76 @@
+conference:
+  - title: An Exploration of the Effect of Buyer Preference and Market Composition on the Rent Gradient using the ALMA Framework
+    event: 3rd ACM SIGSPATIAL International Workshop on GeoSpatial Simulation
+    place: Virtual 
+    time: November 2020
+  - title: Particle Swarm Optimization for Calibration in Spatially Explicit Agent-Based Modeling
+    event: American Association of Geographers Annual Meeting
+    place: Virtual
+    time: April 2020
+  - title: Capturing the Predictive Power of Cortical Learning Algorithms
+    event: Undergraduate Research & Arts Festival @ Westminster College
+    place: New Wilmington, PA
+    time:  April 2019
+  - title: Computational Fact-Checking through Relational Similarity based Path Mining
+    event: Undergraduate Research & Arts Festival @ Westminster College
+    place: New Wilmington, PA  
+    time: April 2019
+  - title: Capturing the Predictive Power of Cortical Learning Algorithms
+    event: National Conference on Undergraduate Research
+    place: Atlanta, GA
+    time: April 2019
+  - title: Computational Fact-Checking through Relational Similarity based Path Mining
+    event: AMS Contributed Paper Session at 2019 Joint Mathematics Meeting
+    place: Baltimore, MD
+    time: January 2019
+  - title: Decentralizing the World with Blockchain
+    event: Undergraduate Research & Arts Festival @ Westminster College
+    place: New Wilmington, PA
+    time: April 2018
+  - title: Repeated Play Games
+    event: Mathematics Association of America Allegheny Mountain Section Meeting
+    place: Pittsburgh, PA
+    time: April 2017
+  - title: Optimizing Throughput, Cost, and Safety in Toll Booth Plazas
+    event: Pi Mu Epsilon Regional Conference
+    place: Youngstown, OH 
+    time: February 2017
+invited:
+  - title: Information Extraction and Aggregation for Business Profiling
+    event: Institute for Pure and Applied Mathematics (IPAM)
+    place: Los Angeles, CA  
+    time: August 2018
+  - title: Information Extraction and Aggregation for Business Profiling
+    event: Praedicat, Inc.
+    place: Los Angeles, CA  
+    time: July 2018
+poster:
+  - title: An Exploration of the Effect of Buyer Preference and Market Composition on the Rent Gradient using the ALMA Framework
+    event: UIUC GIS Day
+    place: Champaign, IL
+    time: November 2020
+    link: /assets/pdf/GISDay2020Poster-ALMA.pdf
+  - title: Particle Swarm Optimization for Calibration in Spatially Explicit Agent-Based Modeling
+    event: UIUC SESE Research Review
+    place: Champaign, IL  
+    time: February 2020
+    link: /assets/pdf/SESEReview-11022020.pdf
+  - title: "CyberGIS-Jupyter for Spatially Explicity Agent-based Modeling: A Case Study in Influenza Transmission"
+    event: UIUC GIS Day
+    place: Champaign, IL 
+    time: November 2019
+    link: /assets/pdf/GISDay2019Poster-Spatial.pdf
+  - title: CyberGIS-Jupyter for Sustainable and Reproducible Geospatial Analytics
+    event: UIUC GIS Day
+    place: Champaign, IL 
+    time: November 2019
+    link: /assets/pdf/GISDay2019Poster-Algo.pdf
+  - title: Computational Fact-Checking through Knowledge Graphs
+    event: Undergraduate Research Poster Session at 2019 Joint Mathematics Meeting
+    place: Baltimore, MD
+    time: January 2019
+    link: /assets/pdf/JMM2019Poster.pdf
+  - title: Strategies in Simulated Repeated Play Game Theory
+    event: Undergraduate Research & Arts Festival @ Westminster College
+    place: New Wilmington, PA
+    time: April 2017
