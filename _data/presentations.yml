@@ -45,6 +45,11 @@ invited:
     place: Los Angeles, CA  
     time: July 2018
 poster:
+  - title: "Rapidly Measuring Spatial Accessibility of COVID-19 Healthcare Resources: A Case Study of Illinois, USA"
+    event: UIUC SESE Research Review
+    place: Champaign, IL
+    time: April 2021
+    link: /assets/pdf/SESEReview2021-SpatialAccess.pdf
   - title: An Exploration of the Effect of Buyer Preference and Market Composition on the Rent Gradient using the ALMA Framework
     event: UIUC GIS Day
     place: Champaign, IL
@@ -54,7 +59,7 @@ poster:
     event: UIUC SESE Research Review
     place: Champaign, IL  
     time: February 2020
-    link: /assets/pdf/SESEReview-11022020.pdf
+    link: /assets/pdf/SESEReview-20200211.pdf
   - title: "CyberGIS-Jupyter for Spatially Explicity Agent-based Modeling: A Case Study in Influenza Transmission"
     event: UIUC GIS Day
     place: Champaign, IL 

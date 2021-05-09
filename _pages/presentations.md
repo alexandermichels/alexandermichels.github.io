@@ -70,13 +70,16 @@ July 2018
 
 ## [Poster Sessions](#posters)
 
+* **Rapidly Measuring Spatial Accessibility of COVID-19 Healthcare Resources: A Case Study of Illinois, USA**  
+UIUC SESE Research Review | Champaign, IL  
+April 2021 | [Poster](/assets/pdf/SESEReview2021-SpatialAccess.pdf)
 * **An Exploration of the Effect of Buyer Preference and Market Composition on the
 Rent Gradient using the ALMA Framework**  
 UIUC GIS Day | Champaign, IL  
 November 2020 | [Poster](/assets/pdf/GISDay2020Poster-ALMA.pdf)  
 * **Particle Swarm Optimization for Calibration in Spatially Explicit Agent-Based Modeling**  
 UIUC SESE Research Review | Champaign, IL  
-February 2020 | [Poster](/assets/pdf/SESEReview-11022020.pdf)
+February 2020 | [Poster](/assets/pdf/SESEReview-20200211.pdf)
 * **CyberGIS-Jupyter for Spatially Explicity Agent-based Modeling: A Case Study in Influenza Transmission**  
 UIUC GIS Day | Champaign, IL  
 November 2019 | [Poster](/assets/pdf/GISDay2019Poster-Spatial.pdf)
