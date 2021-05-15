@@ -6,7 +6,7 @@ img: /assets/img/SVIbyCensusTract.png
 importance: 1
 ---
 
-This is a test to see how putting maps/a project online would look. For information on the CDC Social Vulnerability Index, see the documentation: https://www.atsdr.cdc.gov/placeandhealth/svi/documentation/SVI_documentation_2018.html As the documentation states about the SVI index: "Percentile ranking values range from 0 to 1, with higher values indicating greater vulnerability."
+This is a test to see how putting maps/a project online would look. For information on the CDC Social Vulnerability Index, see the documentation: [https://www.atsdr.cdc.gov/placeandhealth/svi/documentation/SVI_documentation_2018.html](https://www.atsdr.cdc.gov/placeandhealth/svi/documentation/SVI_documentation_2018.html) As the documentation states about the SVI index: "Percentile ranking values range from 0 to 1, with higher values indicating greater vulnerability."
 
 Below you can see a simple map of the CDC's 2018 Social Vulnerability Index (SVI) by Census Tract ([data available here](https://www.atsdr.cdc.gov/placeandhealth/svi/data_documentation_download.html)):
 
