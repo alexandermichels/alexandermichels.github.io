@@ -55,3 +55,14 @@ Maps can be large making them slow to load and memory intensive so simplifying t
 </div>
 
 The map looks fine, but you can see issues around odd-shaped counties when you zoom in close (zoom into around the Missippi River for examples).
+
+***
+
+A useful geography is the [Combined Statistical Area](https://en.wikipedia.org/wiki/Combined_statistical_area) which capture a city's area including suburbs and ignoring state/adminstrative lines. According to Wikipedia "CSAs represent multiple metropolitan or micropolitan areas that have an employment interchange of at least 15%. CSAs often represent regions with overlapping labor and media markets.":
+
+<div class="row">
+    <iframe src="{{ '/assets/html/maps/CSA.html' | relative_url }}" title="Map2" style="width:100%; height:400px;"></iframe>
+</div>
+<div class="caption">
+    Map of Combined Statistical Areas
+</div>
