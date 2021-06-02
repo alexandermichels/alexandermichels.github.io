@@ -6,6 +6,19 @@ img: /assets/img/SVIbyCensusTract.png
 importance: 1
 ---
 
+## TOC:
+
+* [SVI Mapping with Geopandas](#svi-gpd)
+* [SVI Mapping with Folium](#svi-folium)
+* [Metro/Micro-politan Statistical Areas (MSA/&mu;SA)](#cbsa)
+* [Combined Statistical Area (CSA)](#csa)
+
+<a id="svi-gpd"></a>
+
+***
+
+### SVI Mapping with Geopandas
+
 This is a test to see how putting maps/a project online would look. For information on the CDC Social Vulnerability Index, see the documentation: [https://www.atsdr.cdc.gov/placeandhealth/svi/documentation/SVI_documentation_2018.html](https://www.atsdr.cdc.gov/placeandhealth/svi/documentation/SVI_documentation_2018.html) As the documentation states about the SVI index: "Percentile ranking values range from 0 to 1, with higher values indicating greater vulnerability."
 
 Below you can see a simple map of the CDC's 2018 Social Vulnerability Index (SVI) by Census Tract created using GeoPandas ([data available here](https://www.atsdr.cdc.gov/placeandhealth/svi/data_documentation_download.html)):
@@ -18,6 +31,12 @@ Below you can see a simple map of the CDC's 2018 Social Vulnerability Index (SVI
 <div class="caption">
     Map of SVI by Census Tract
 </div>
+
+<a id="svi-folium"></a>
+
+***
+
+### SVI Mapping with Folium
 
 I also created some fancier maps using [Folium](https://python-visualization.github.io/folium/modules.html):
 
@@ -56,7 +75,27 @@ Maps can be large making them slow to load and memory intensive so simplifying t
 
 The map looks fine, but you can see issues around odd-shaped counties when you zoom in close (zoom into around the Missippi River for examples).
 
+<a id="cbsa"></a>
+
 ***
+
+### Metro/Micro-politan Statistical Areas (MSA/&mu;SA)
+
+<a id="csa"></a>
+
+A useful geography is the [Metropolitan Statistical Area](https://en.wikipedia.org/wiki/Metropolitan_statistical_area) and [Micropolitan Statistical Area](https://en.wikipedia.org/wiki/Micropolitan_statistical_area) which are collectively referred to as "Core Based Statistical Areas (CBSAs)". According to Wikipedia: "CBSAs are delineated on the basis of a central urban area or urban cluster – in other words: a contiguous area of relatively high population density."
+
+
+<div class="row">
+    <iframe src="{{ '/assets/html/maps/CBSA.html' | relative_url }}" title="Map2" style="width:100%; height:400px;"></iframe>
+</div>
+<div class="caption">
+    Map of Metro/Micro-politan Statistical Areas (MSA/&mu;SA)
+</div>
+
+***
+
+### Combined Statistical Area (CSA)
 
 A useful geography is the [Combined Statistical Area](https://en.wikipedia.org/wiki/Combined_statistical_area) which capture a city's area including suburbs and ignoring state/adminstrative lines. According to Wikipedia "CSAs represent multiple metropolitan or micropolitan areas that have an employment interchange of at least 15%. CSAs often represent regions with overlapping labor and media markets.":
 
