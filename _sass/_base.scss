@@ -19,6 +19,18 @@ a, table.table a {
   }
 }
 
+blockquote {
+  background: var(--global-bg-color);
+  border-left: 2px solid var(--global-theme-color);
+  margin: 1.5em 10px;
+  padding: 0.5em 10px;
+  font-size: 1.2rem;
+}
+
+blockquote p {
+  font-style: italic;
+}
+
 // Math
 
 .equation {
@@ -50,7 +62,6 @@ a, table.table a {
     margin-bottom: 5px;
     margin-top: 5px;
     font-family: monospace;
-    font-size: 1.2rem;
     p {
       display: inline-block;
       margin: 0;
@@ -169,12 +180,10 @@ a, table.table a {
 
 .news table td {
   font-size: 1rem;
-  width: 85%;
   color: var(--global-text-color);
 }
 
 .news table th {
-  width: 15%;
   color: var(--global-text-color);
 }
 
@@ -274,6 +283,7 @@ footer.sticky-bottom {
       }
     }
     &.active .page-link {
+      color: $white-color;
       background-color: var(--global-theme-color);
       &:hover {
         background-color: var(--global-theme-color);
@@ -296,24 +306,47 @@ footer.sticky-bottom {
 // Projects
 
 .projects {
-  .grid-item {
-    width: 250px;
-    margin-bottom: 10px;
-    a {
-      color: black;
-      text-decoration: none;
-      &:hover {
+  a {
+    text-decoration: none;
+
+    &:hover {
+      .card-title {
         color: var(--global-theme-color);
       }
     }
   }
-  .card { 
+
+  .card {
     img {
       width: 100%;
     }
     .card-title {
       color: $black-color;
     }
+  }
+
+  .card-item {
+    width: auto;
+    margin-bottom: 10px;
+
+    .row {
+      display: flex;
+      align-items: center;
+    }
+  }
+
+  .grid-item {
+    width: 250px;
+    margin-bottom: 10px;
+  }
+
+  h2.category {
+    color: $grey-color-light;
+    border-bottom: 1px solid $grey-color-light;
+    padding-top: 0.5rem;
+    margin-top: 2rem;
+    margin-bottom: 1rem;
+    text-align: right;
   }
 }
 
