@@ -4,7 +4,8 @@ title: Agent-based Land MArket
 description: A Python implementation of Agent-based Land MArket (ALMA). Presented at GeoSim '20
 img: /assets/gif/alma-py.gif
 importance: 2
-category: agent based modeling
+category: Agent-Based Modeling
+github: https://github.com/cybergis/ALMANotebook
 ---
 
 My short paper, ["An Exploration of the Effect of Buyer Preference and Market Composition on the Rent Gradient using the ALMA Framework"](https://doi.org/10.1145/3423335.3428167) with [Jeon-Young Kang](https://scholar.google.com/citations?user=u5cevWAAAAAJ&hl=en&oi=ao) and [Shaowen Wang](https://scholar.google.com/citations?user=qcUhJIcAAAAJ&hl=en&oi=ao) has been accepted at [GeoSim '20](http://www.geosim.org/p/program.html). The abstract for the paper is:

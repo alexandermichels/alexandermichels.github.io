@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /cv/
-title: cv
+title: CV
 nav: true
 ---
 
@@ -35,7 +35,7 @@ Working under Dr. Shaowen Wang
 **B.S. in Mathematics and Financial Economics**   
 Westminster College  
 August 2015 - May 2019  
-Minor in Computer Science, Cum Laude with Honors in Mathematics and CS
+Minor in Computer Science, Cum Laude with Honors in Mathematics and CS  
 Honors Thesis: "Capturing the Predictive Power of Cortical Learning Algorithms"
 
 <a id="research-exp" />
@@ -48,9 +48,9 @@ Honors Thesis: "Capturing the Predictive Power of Cortical Learning Algorithms"
 [CyberGIS Center](https://cybergis.illinois.edu/) and [CyberInfrastructure and Geospatial Information Laboratory](https://cigi.illinois.edu/)  
 June 2019 - Present  
 * At the labs I worked under Dr. Shaowen Wang, Dr. Anand Padmanabhan, and Dr. Jeon-Young Kang on the "Algorithms & Systems" and "Spatial Modeling" teams.
-* Under the "Algorithms & Systems" team I primarily work to design, build, and administer cyberinfrastructure. Projects include [CyberGISX](https://cybergisxhub.cigi.illinois.edu/), [Kubernetes-based CyberGIS-Jupyter for Water](https://www.hydroshare.org/resource/e9686eadd4474b6587d83d9330d25854/), and the [WhereCOVID-19 App's Spatial Accessibility Explorer](https://wherecovid19.cigi.illinois.edu/).
+* Under the "Algorithms & Systems" team I primarily work to design, build, and administer cyberinfrastructure. Projects include [CyberGISX](https://cybergisxhub.cigi.illinois.edu/) and [Kubernetes-based CyberGIS-Jupyter for Water](https://www.hydroshare.org/resource/e9686eadd4474b6587d83d9330d25854/).
 * Developed Docker-based Hadoop cluster for educational and research applications.
-* Under the "Spatial Modeling" team, I wrote and published multiple spatial models for educational and research purposes.
+* Under the "Spatial Modeling" team, I wrote and published multiple spatial models for educational and research purposes. Projects include [WhereCOVID-19 App's Spatial Accessibility Explorer](https://wherecovid19.cigi.illinois.edu/).
 
 **Informatics Researcher**  
 Institute for Pure and Applied Mathematics at UCLA / Praedicat, Inc.  

@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /presentations/
-title: presentations
+title: Presentations
 description: Presentations and posters from past conferences.
 nav: true
 ---

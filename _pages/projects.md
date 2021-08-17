@@ -1,10 +1,10 @@
 ---
 layout: page
-title: projects
+title: Projects
 permalink: /projects/
-description: A growing collection of your cool projects.
+description: A few of the projects I've been involved with
 nav: false
-display_categories: [spatial analysis, agent based modeling]
+display_categories: [Cyberinfrastructure, Spatial Analysis, Agent-Based Modeling]
 ---
 
 <div class="projects">
