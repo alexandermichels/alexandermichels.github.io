@@ -7,6 +7,8 @@ importance: 1
 category: Cyberinfrastructure
 ---
 
+## CyberGISX
+
 CyberGISX/CyberGIS-Jupyter is a science gateway for education and reproducible computational geosciences. The platform provides a community, a variety of guided notebooks, and a Jupyter environment. My work has focused on deploying JupyterHub through Kubernetes and redesigning the backend to provide more flexible and reproducible compute environments.
 
 Check out the project:
@@ -29,6 +31,8 @@ I've also contributed a number of Jupyter notebooks to the CyberGISX Hub communi
 <div class="caption">
     Login page for the CyberGISX JupyterHub environment
 </div>
+
+## CyberGIS-Jupyter for Water (CJW)
 
 Similar to CyberGISX, CyberGIS-Jupyter for Water (CJW) provides a Jupyter environment for hydrological modeling and analysis that is deeply integrated with the [Hydroshare](https://www.hydroshare.org/) ecosystem. My work has focused on deploying JupyterHub through Kubernetes.
 

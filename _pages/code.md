@@ -1,0 +1,43 @@
+---
+layout: page
+permalink: /code/
+title: Code
+description: Code I have written or contributed to
+nav: false
+---
+
+
+<!---
+Github badges from : https://ghbtns.com/
+--->
+
+{% for category in site.data.code %}
+  <a id="{{category.link}}"></a>
+  <hr>
+  <h2><a href="#{{category.link}}">{{category.category}}</a></h2>
+  <div>
+  {% for repo in category.repos %}
+    {% if repo.platform == "github" %}
+        <div class="row">
+            <div class="col-sm-6">
+                <p><a href="https://github.com/{{repo.user}}/{{repo.repo}}" target="_blank"><i class="fab fa-github"></i>  {{repo.user}}/{{repo.repo}}</a></p>
+            </div>
+            <div class="col-sm-2">
+                <iframe src="https://ghbtns.com/github-btn.html?user={{repo.user}}&repo={{repo.repo}}&type=fork&count=true&v=2" frameborder="0" scrolling="0" width="150" height="20" title="GitHub"></iframe>
+            </div>
+            <div class="col-sm-2">
+                <iframe src="https://ghbtns.com/github-btn.html?user={{repo.user}}&repo={{repo.repo}}&type=star&count=true&v=2" frameborder="0" scrolling="0" width="150" height="20" title="GitHub"></iframe>
+            </div>
+            <div class="col-sm-2">
+                <iframe src="https://ghbtns.com/github-btn.html?user={{repo.user}}&repo={{repo.repo}}&type=watch&count=true&v=2" frameborder="0" scrolling="0" width="150" height="20" title="GitHub"></iframe>
+            </div>
+    {% endif %}
+    </div>
+  {% endfor %}
+{% endfor %}
+<br>
+<br>
+
+<iframe src="https://ghbtns.com/github-btn.html?user={{site.github_username}}&type=follow&count=true&size=large" frameborder="0" scrolling="0" width="230" height="30" title="GitHub"></iframe>
+
+<iframe src="https://ghbtns.com/github-btn.html?user={{site.github_username}}&type=sponsor&size=large" frameborder="0" scrolling="0" width="280" height="30" title="GitHub"></iframe>

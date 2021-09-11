@@ -1,0 +1,23 @@
+- category: "Research Code"
+  link: "research"
+  repos:
+    - platform: github
+      user: "cybergis"
+      repo: "ALMANotebook"
+    - platform: github
+      user: "cybergis"
+      repo: "COVID-19AccessibilityNotebook"
+    - platform: github
+      user: "cybergis"
+      repo: "QueenAnneFlu"
+    - platform: github
+      user: himahuja
+      repo: pcatxcore
+- category: "Free and Open-Source Software"
+  link: "foss"
+  repos:
+    - platform: github
+      user: "alexandermichels"
+      repo: "MintSetup"
+      
+  
