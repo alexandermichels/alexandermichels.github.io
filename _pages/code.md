@@ -13,9 +13,8 @@ Github badges from : https://ghbtns.com/
 
 {% for category in site.data.code %}
   <a id="{{category.link}}"></a>
-  <hr>
-  <h2><a href="#{{category.link}}">{{category.category}}</a></h2>
-  <div>
+  <div class="theme-card hoverable mt-3 p-3">
+  <h2 style="text-align: center;"><a href="#{{category.link}}">{{category.category}}</a></h2>
   {% for repo in category.repos %}
     {% if repo.platform == "github" %}
         <div class="row">
@@ -31,13 +30,14 @@ Github badges from : https://ghbtns.com/
             <div class="col-sm-2">
                 <iframe src="https://ghbtns.com/github-btn.html?user={{repo.user}}&repo={{repo.repo}}&type=watch&count=true&v=2" frameborder="0" scrolling="0" width="150" height="20" title="GitHub"></iframe>
             </div>
+        </div>
     {% endif %}
-    </div>
   {% endfor %}
+  </div>
 {% endfor %}
 <br>
 <br>
-
-<iframe src="https://ghbtns.com/github-btn.html?user={{site.github_username}}&type=follow&count=true&size=large" frameborder="0" scrolling="0" width="230" height="30" title="GitHub"></iframe>
-
-<iframe src="https://ghbtns.com/github-btn.html?user={{site.github_username}}&type=sponsor&size=large" frameborder="0" scrolling="0" width="280" height="30" title="GitHub"></iframe>
+<div style="display: flex; align-items: center; justify-content: center;">
+    <iframe src="https://ghbtns.com/github-btn.html?user={{site.github_username}}&type=follow&count=true&size=large" frameborder="0" scrolling="0" width="230" height="30" title="GitHub"></iframe>
+    <iframe src="https://ghbtns.com/github-btn.html?user={{site.github_username}}&type=sponsor&size=large" frameborder="0" scrolling="0" width="280" height="30" title="GitHub"></iframe>
+</div>

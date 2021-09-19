@@ -47,6 +47,12 @@ blockquote p {
   text-align: center;
 }
 
+.theme-card {
+  background-color: var(--global-code-bg-color);
+  border: 1px solid var(--global-text-color-light);
+  box-shadow: 0px 2px 2px var(--global-text-color-light);
+}
+
 // Citation
 .citation, .citation-number {
   color: var(--global-theme-color);
