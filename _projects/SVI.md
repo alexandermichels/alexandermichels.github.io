@@ -4,7 +4,7 @@ title: SVI and CBSA Mapping
 description: Mapping Social Vulnerability
 img: /assets/img/SVIbyCensusTract.png
 importance: 1
-category: Spatial Analysis
+category: none
 ---
 
 ## TOC:

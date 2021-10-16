@@ -1,6 +1,10 @@
 - type: "Conference Presentations"
   link: "conference"
   presentations:
+    - title: Towards Reproducible Research on CyberGISX with Lmod and Easybuild
+      event: Gateways 2021
+      place: Virtual 
+      time: October 2021
     - title: An Exploration of the Effect of Buyer Preference and Market Composition on the Rent Gradient using the ALMA Framework
       event: 3rd ACM SIGSPATIAL International Workshop on GeoSpatial Simulation
       place: Virtual 
@@ -25,10 +29,10 @@
       event: AMS Contributed Paper Session at 2019 Joint Mathematics Meeting
       place: Baltimore, MD
       time: January 2019
-    - title: Decentralizing the World with Blockchain
-      event: Undergraduate Research & Arts Festival @ Westminster College
-      place: New Wilmington, PA
-      time: April 2018
+    # - title: Decentralizing the World with Blockchain
+    #   event: Undergraduate Research & Arts Festival @ Westminster College
+    #   place: New Wilmington, PA
+    #   time: April 2018
     - title: Repeated Play Games
       event: Mathematics Association of America Allegheny Mountain Section Meeting
       place: Pittsburgh, PA
@@ -81,7 +85,7 @@
       place: Baltimore, MD
       time: January 2019
       poster: /assets/pdf/JMM2019Poster.pdf
-    - title: Strategies in Simulated Repeated Play Game Theory
-      event: Undergraduate Research & Arts Festival @ Westminster College
-      place: New Wilmington, PA
-      time: April 2017
+    # - title: Strategies in Simulated Repeated Play Game Theory
+    #   event: Undergraduate Research & Arts Festival @ Westminster College
+    #   place: New Wilmington, PA
+    #   time: April 2017

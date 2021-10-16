@@ -1,7 +1,7 @@
 ---
 layout: distill
 title: "Rapidly Measuring Spatial Accessibility of COVID-19 Healthcare Resources: A Case Study of Illinois, USA"
-description: 
+description: Work calculating spatial accessibility to crucial resources during the COVID-19 pandemic.
 date: 2020-05-10
 
 authors:

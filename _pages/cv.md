@@ -30,7 +30,12 @@ nav: true
 **Ph.D. in Spatial Informatics (in progress)**  
 University of Illinois at Urbana-Champaign  
 June 2019 - Present  
-Working under Dr. Shaowen Wang
+Advised by Dr. Shaowen Wang
+
+**M.S. in Geography & GIS (in progress)**  
+University of Illinois at Urbana-Champaign  
+August 2020 - Present  
+Advised by Dr. Shaowen Wang
 
 **B.S. in Mathematics and Financial Economics**   
 Westminster College  

@@ -41,3 +41,17 @@ A few links:
 * [CyberGIS-Jupyter for Water (CJW)](https://go.illinois.edu/cybergis-jupyter-water/)
 * [CyberGIS-Jupyter for Water on Kubernetes (CJW-K8s)](http://go.illinois.edu/cjw-k8s)
 * [The CyberGISX Center page on the project](https://cybergis.illinois.edu/project/cybergis-hydroshare/)
+
+## Associated Publications
+
+<div class="publications">
+{% for type in site.scholar.type_order %}
+  {%- capture citecount -%}
+  {%- bibliography_count --query @{{type}}[cybergisx=true] -%}
+  {%- endcapture -%}
+  {% if citecount != "0"  %}
+    <h4>{{ site.scholar.type_names[type] }}</h4>
+    {% bibliography --query @{{type}}[cybergisx=true] --group_by year --group_order descending %}
+  {% endif %}
+{% endfor %}
+</div>

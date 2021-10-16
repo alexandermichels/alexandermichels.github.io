@@ -10,6 +10,22 @@
   - firstname: ["Jeon-Young", "J-Y", "J.-Y."]
     url: https://scholar.google.com/citations?user=u5cevWAAAAAJ
 
+"Li":
+  - firstname: ["Zhiyu", "Z", "Z.", "Drew"]
+    url: "https://scholar.google.com/citations?user=yskFOAgAAAAJ"
+
+"Padmanabhan":
+  - firstname: ["Anand", "A", "A."]
+    url: "https://scholar.google.com/citations?user=ADQABncAAAAJ"
+
+"Vandewalle":
+  - firstname: ["Rebecca", "Becky", "R", "B", "R.", "B."]
+    url: "https://scholar.google.com/citations?user=1WzQbAgAAAAJ"
+
 "Wang":
-  - firstname: ["Shaowen", "S"]
+  - firstname: ["Shaowen", "S", "S."]
     url: https://scholar.google.com/citations?user=qcUhJIcAAAAJ
+
+"Xiao":
+  - firstname: ["Zimo", "Z", "Z."]
+    url: "https://github.com/zimo-xiao"

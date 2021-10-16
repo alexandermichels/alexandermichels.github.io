@@ -22,11 +22,15 @@ nav: true
   <ul>
   {% for pres in type.presentations %}
     <li><b>{{pres.title}}</b><br>
-    {{pres.event}}<br>
-    {{pres.time}}
-    {% if pres.poster %}
-    | <a href="{{pres.poster}}" target="_blank">Poster</a>
-    {% endif %}
+    <p style="text-align:left;">
+        {{pres.event}}
+        <span style="float:right;">
+            {{pres.time}}
+            {% if pres.poster %}
+            | <a href="{{pres.poster}}" target="_blank">Poster</a>
+            {% endif %}
+        </span>
+    </p>
     </li>
   {% endfor %}
   </ul>
