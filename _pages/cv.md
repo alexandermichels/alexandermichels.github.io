@@ -126,6 +126,11 @@ Specialty Groups:
 
 ## [Professional Service](#prof-service)
 
+**Session Organizer**, Computation and Uncertainty of Spatial Accessibility  
+AAG 2022 Symposium on Data-Intensive Geospatial Understanding in the Era of AI and CyberGIS  
+February 2022
+
+
 **Student Director**  
 AAG CyberInfrastructure Specialty Group (CISG)  
 April 2021 - Present  

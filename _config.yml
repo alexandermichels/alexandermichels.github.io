@@ -74,7 +74,7 @@ google_analytics: G-2LB3FBFX8E # out your google-analytics code
 # -----------------------------------------------------------------------------
 
 blog_name: # your blog must have a name for it to show up in the nav bar
-blog_description: thoughts from a spatial informatics student
+blog_description: Thoughts and updates from a geospatial data scientist
 permalink: /blog/:year/:title/
 
 # Pagination
@@ -172,7 +172,7 @@ scholar:
   type_names: {
     unpublished: Pre-Prints / In Preparation, 
     article: Journal Articles, 
-    inproceedings: Conference Articles, 
+    inproceedings: Conference Proceedings, 
     techreport: Technical Report
   }
 

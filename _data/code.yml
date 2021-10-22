@@ -13,11 +13,11 @@
     - platform: github
       user: himahuja
       repo: pcatxcore
-- category: "Free and Open-Source Software"
-  link: "foss"
-  repos:
-    - platform: github
-      user: "alexandermichels"
-      repo: "MintSetup"
+# - category: "Free and Open-Source Software"
+#   link: "foss"
+#   repos:
+#     - platform: github
+#       user: "alexandermichels"
+#       repo: "MintSetup"
       
   

@@ -2,6 +2,10 @@
   - firstname: ["Jared", "J", "J."]
     url: https://scholar.google.com/citations?user=LNnWJaEAAAAJ
 
+"Baig":
+  - firstname: ["Furqan", "F", "F."]
+    url: "https://scholar.google.com/citations?user=BJ_mTDkAAAAJ"
+
 "Crooks":
   - firstname: ["Andrew", "A", "A."]
     url: https://scholar.google.com/citations?user=RDQF0ScAAAAJ
