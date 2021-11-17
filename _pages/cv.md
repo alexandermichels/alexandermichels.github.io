@@ -114,8 +114,9 @@ See [presentations page](/presentations/)
 
 **American Association of Geographers (AAG)**  
 Specialty Groups:   
-* Cyberinfrastructure
+* Cyberinfrastructure (CISG)  
 * Economic Geography  
+* Graduate Student Affinity Group (GSAG)  
 * Socialist and Critical Geography  
 * Spatial Analysis and Modeling  
 * Transportation Geography  

@@ -29,6 +29,9 @@ nav: true
             {% if pres.poster %}
             | <a href="{{pres.poster}}" target="_blank">Poster</a>
             {% endif %}
+            {% if pres.video %}
+            | <a href="{{pres.video}}" target="_blank">Video</a>
+            {% endif %}
         </span>
     </p>
     </li>

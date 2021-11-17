@@ -5,6 +5,7 @@
       event: Gateways 2021
       place: Virtual 
       time: October 2021
+      video: https://youtu.be/U_bBW0-qsQI?t=3114
     - title: An Exploration of the Effect of Buyer Preference and Market Composition on the Rent Gradient using the ALMA Framework
       event: 3rd ACM SIGSPATIAL International Workshop on GeoSpatial Simulation
       place: Virtual 
@@ -55,6 +56,10 @@
 - type: "Poster Sessions"
   link: "poster"
   presentations:
+    - title: "ScalableAccess: Computing Travel-Time Polygons of Fine Spatial Granularity for Accessibility Analysis at Scale"
+      event: UIUC GIS Day
+      place: Champaign, IL
+      time: November 2021
     - title: "Rapidly Measuring Spatial Accessibility of COVID-19 Healthcare Resources: A Case Study of Illinois, USA"
       event: UIUC SESE Research Review
       place: Champaign, IL
