@@ -3,7 +3,7 @@ layout: page
 title: Projects
 permalink: /projects/
 description: A few of the projects I've been involved with
-nav: false
+nav: true
 display_categories: [Cyberinfrastructure, Spatial Analysis, Agent-Based Modeling]
 ---
 

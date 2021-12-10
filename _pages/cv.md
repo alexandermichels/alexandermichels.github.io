@@ -5,21 +5,36 @@ title: CV
 nav: true
 ---
 
-[PDF version of my Curriculum Vitae](https://github.com/alexandermichels/CV/blob/master/CurriculumVitae.pdf)
-
-[PDF version of my Resume](https://github.com/alexandermichels/CV/blob/master/Resume.pdf).
+[PDF version of my Curriculum Vitae](https://github.com/alexandermichels/CV/blob/master/CurriculumVitae.pdf), [PDF version of my Resume](https://github.com/alexandermichels/CV/blob/master/Resume.pdf).
 
 
 ## Table of Contents
 
-* [Education](#edu)
-* [Research Experience](#research-exp)
-* [Teaching Experience](#teaching-exp)
-* [Awards](#awards)
-* [Publications](#pub)
-* [Presentations](#pres)
-* [Professional Associations](#prof-assoc)
-* [Professional Service](#prof-service)
+<ul>
+    <li><a href="#edu">Education</a></li>
+    <li><a href="#research-exp">Research Experience</a></li>
+    <li><a href="#teaching-exp">Teaching Experience</a></li>
+    <li><a href="#awards">Awards</a></li>
+    <li><a href="#pub">Publications</a></li>
+    <ul>
+    {% for type in site.scholar.type_order %}
+        {%- capture citecount -%}
+        {%- bibliography_count --query @{{type}} -%}
+        {%- endcapture -%}
+        {% if citecount != "0"  %}
+            <li><a href="#{{type}}">{{ site.scholar.type_names[type] }}</a></li>
+        {% endif %}
+    {% endfor %}
+    </ul>
+    <li><a href="#pres">Presentations</a></li>
+    <ul>
+        {% for type in site.data.presentations %}
+        <li><a href="#{{type.link}}">{{type.type}}</a></li>
+        {% endfor %}
+    </ul>
+    <li><a href="#prof-assoc">Professional Associations</a></li>
+    <li><a href="#prof-service">Professional Service</a></li>
+</ul>
 
 <a id="edu" />
 
@@ -94,8 +109,19 @@ August 2015 - December 2018
 
 ## [Publications](#pub)
 
-See [publications page](/publications/)
+<!--See [publications page](/publications/)-->
 
+<div class="publications">
+{% for type in site.scholar.type_order %}
+  {%- capture citecount -%}
+  {%- bibliography_count --query @{{type}} -%}
+  {%- endcapture -%}
+  {% if citecount != "0"  %}
+    <h3 id="{{type}}">{{ site.scholar.type_names[type] }}</h3>
+    {% bibliography --query @{{type}} --group_by year --group_order descending %}
+  {% endif %}
+{% endfor %}
+</div>
 
 <a id="pres" />
 
@@ -103,8 +129,30 @@ See [publications page](/publications/)
 
 ## [Presentations](#pres)
 
-See [presentations page](/presentations/)
+<!--See [presentations page](/presentations/)-->
 
+{% for type in site.data.presentations %}
+  <a id="{{type.link}}"></a>
+  <h3><a href="#{{type.link}}">{{type.type}}</a></h3>
+  <ul>
+  {% for pres in type.presentations %}
+    <li><b>{{pres.title}}</b><br>
+    <p style="text-align:left;">
+        {{pres.event}}
+        <span style="float:right;">
+            {{pres.time}}
+            {% if pres.poster %}
+            | <a href="{{pres.poster}}" target="_blank">Poster</a>
+            {% endif %}
+            {% if pres.video %}
+            | <a href="{{pres.video}}" target="_blank">Video</a>
+            {% endif %}
+        </span>
+    </p>
+    </li>
+  {% endfor %}
+  </ul>
+{% endfor %}
 
 <a id="prof-assoc" />
 
