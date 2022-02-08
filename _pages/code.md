@@ -9,6 +9,7 @@ nav: true
 
 <!---
 Github badges from : https://ghbtns.com/
+Docker badges: https://shields.io/category/downloads
 --->
 
 {% for category in site.data.code %}
@@ -38,6 +39,6 @@ Github badges from : https://ghbtns.com/
 <br>
 <br>
 <div style="display: flex; align-items: center; justify-content: center;">
-    <iframe src="https://ghbtns.com/github-btn.html?user={{site.github_username}}&type=follow&count=true&size=large" frameborder="0" scrolling="0" width="230" height="30" title="GitHub"></iframe>
-    <iframe src="https://ghbtns.com/github-btn.html?user={{site.github_username}}&type=sponsor&size=large" frameborder="0" scrolling="0" width="280" height="30" title="GitHub"></iframe>
+    <iframe src="https://ghbtns.com/github-btn.html?user={{site.github_username}}&type=follow&count=true" frameborder="0" scrolling="0" width="230" height="30" title="GitHub"></iframe>
+    <iframe src="https://ghbtns.com/github-btn.html?user={{site.github_username}}&type=sponsor" frameborder="0" scrolling="0" width="280" height="30" title="GitHub"></iframe>
 </div>

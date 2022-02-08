@@ -72,6 +72,11 @@ June 2019 - Present
 * Developed Docker-based Hadoop cluster for educational and research applications.
 * Under the "Spatial Modeling" team, I wrote and published multiple spatial models for educational and research purposes. Projects include [WhereCOVID-19 App's Spatial Accessibility Explorer](https://wherecovid19.cigi.illinois.edu/).
 
+**SESYNC Graduate Research Fellow**  
+National Socio-Environmental Synthesis Center (SESYNC)  
+February 2020 - January 2022
+* Worked on Graduate Pursuit entitled "[Financial Opacity and Challenges to Forest Governance in Indonesia and Malaysia](https://www.sesync.org/project/graduate-pursuits-request-for-proposals/financial-opacity-and-challenges-to-forest)"
+
 **Informatics Researcher**  
 Institute for Pure and Applied Mathematics at UCLA / Praedicat, Inc.  
 June 2018 - August 2018

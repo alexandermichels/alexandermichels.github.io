@@ -51,7 +51,7 @@ A few links:
   {%- endcapture -%}
   {% if citecount != "0"  %}
     <h4>{{ site.scholar.type_names[type] }}</h4>
-    {% bibliography --query @{{type}}[cybergisx=true] --group_by year --group_order descending %}
+    {% bibliography --query @{{type}}[cybergisx] --group_by year --group_order descending %}
   {% endif %}
 {% endfor %}
 </div>
