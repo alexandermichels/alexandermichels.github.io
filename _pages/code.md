@@ -42,3 +42,5 @@ Docker badges: https://shields.io/category/downloads
     <iframe src="https://ghbtns.com/github-btn.html?user={{site.github_username}}&type=follow&count=true" frameborder="0" scrolling="0" width="230" height="30" title="GitHub"></iframe>
     <iframe src="https://ghbtns.com/github-btn.html?user={{site.github_username}}&type=sponsor" frameborder="0" scrolling="0" width="280" height="30" title="GitHub"></iframe>
 </div>
+<hr>
+Also check out my notebooks on [CyberGISXHub](https://cybergisxhub.cigi.illinois.edu/user-profile/alexandermichels/)

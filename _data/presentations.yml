@@ -1,6 +1,10 @@
 - type: "Conference Presentations"
   link: "conference"
   presentations:
+    - title: "SCAMEL: Spatial Accessibility Analysis at Scale"
+      event: American Association of Geographers Annual Meeting
+      time: February 2022
+      place: Virtual
     - title: Towards Reproducible Research on CyberGISX with Lmod and Easybuild
       event: Gateways 2021
       place: Virtual 

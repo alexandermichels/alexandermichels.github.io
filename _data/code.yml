@@ -1,5 +1,14 @@
-- category: "Research Code"
-  link: "research"
+- category: "Educational Materials and Guides"
+  link: "edu"
+  repos:
+    - platform: github
+      user: "cybergis"
+      repo: "intro-to-keeling"
+    # - platform: github
+    #   user: "cybergis"
+    #   repo: "intro-to-osm-network-data"
+- category: "Jupyter Notebooks"
+  link: "jupyter"
   repos:
     - platform: github
       user: "cybergis"
@@ -10,6 +19,12 @@
     - platform: github
       user: "cybergis"
       repo: "QueenAnneFlu"
+- category: "Research Code"
+  link: "research"
+  repos:
+    - platform: github
+      user: "cybergis"
+      repo: "cybergisx-cli"
     - platform: github
       user: himahuja
       repo: pcatxcore
