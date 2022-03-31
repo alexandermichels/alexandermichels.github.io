@@ -2,7 +2,7 @@
 layout: page
 permalink: /code/
 title: Code
-description: Code I have written or contributed to
+description: Code I have written or contributed to.
 nav: true
 ---
 
@@ -36,6 +36,7 @@ Docker badges: https://shields.io/category/downloads
   {% endfor %}
   </div>
 {% endfor %}
+
 <br>
 <br>
 <div style="display: flex; align-items: center; justify-content: center;">
@@ -43,4 +44,4 @@ Docker badges: https://shields.io/category/downloads
     <iframe src="https://ghbtns.com/github-btn.html?user={{site.github_username}}&type=sponsor" frameborder="0" scrolling="0" width="280" height="30" title="GitHub"></iframe>
 </div>
 <hr>
-Also check out my notebooks on [CyberGISXHub](https://cybergisxhub.cigi.illinois.edu/user-profile/alexandermichels/)
+Also check out my notebooks on <a href="https://cybergisxhub.cigi.illinois.edu/user-profile/alexandermichels/" target="_blank">CyberGISXHub</a>.

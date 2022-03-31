@@ -24,10 +24,16 @@
   repos:
     - platform: github
       user: "cybergis"
+      repo: "cybergis-compute-python-sdk"
+    - platform: github
+      user: "cybergis"
       repo: "cybergisx-cli"
     - platform: github
-      user: himahuja
-      repo: pcatxcore
+      user: "cybergis"
+      repo: "PSONotebook"
+    # - platform: github
+    #   user: himahuja
+    #   repo: pcatxcore
 # - category: "Free and Open-Source Software"
 #   link: "foss"
 #   repos:

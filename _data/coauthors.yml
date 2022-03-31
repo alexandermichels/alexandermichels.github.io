@@ -18,6 +18,10 @@
   - firstname: ["Zhiyu", "Z", "Z.", "Drew"]
     url: "https://scholar.google.com/citations?user=yskFOAgAAAAJ"
 
+"Lyu":
+  - firstname: ["Fangzheng", "F", "F."]
+    url: "https://scholar.google.com/citations?user=FNN4IasAAAAJ"
+
 "Padmanabhan":
   - firstname: ["Anand", "A", "A."]
     url: "https://scholar.google.com/citations?user=ADQABncAAAAJ"
@@ -29,6 +33,8 @@
 "Wang":
   - firstname: ["Shaowen", "S", "S."]
     url: https://scholar.google.com/citations?user=qcUhJIcAAAAJ
+  - firstname: ["Shaohua"]
+    url: https://scholar.google.com/citations?user=gnuAFYUAAAAJ
 
 "Xiao":
   - firstname: ["Zimo", "Z", "Z."]

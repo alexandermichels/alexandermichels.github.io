@@ -5,7 +5,9 @@ title: CV
 nav: true
 ---
 
-[PDF version of my Curriculum Vitae](https://github.com/alexandermichels/CV/blob/master/CurriculumVitae.pdf), [PDF version of my Resume](https://github.com/alexandermichels/CV/blob/master/Resume.pdf).
+CV: <a href="https://docs.google.com/viewer?url=https://github.com/alexandermichels/CV/raw/master/CurriculumVitae.pdf" target="_blank">Google Doc Viewer</a>, <a href="https://github.com/alexandermichels/CV/blob/master/CurriculumVitae.pdf" target="_blank">On Github</a>
+
+Resume: <a href="https://docs.google.com/viewer?url=https://github.com/alexandermichels/CV/raw/master/Resume.pdf" target="_blank">Google Doc Viewer</a>, <a href="https://docs.google.com/viewer?url=https://github.com/alexandermichels/CV/raw/master/CurriculumVitae.pdf" target="_blank">On Github</a>
 
 
 ## Table of Contents
@@ -34,11 +36,11 @@ nav: true
     </ul>
     <li><a href="#prof-assoc">Professional Associations</a></li>
     <li><a href="#prof-service">Professional Service</a></li>
+    <li><a href="#workshops">Workshops & Summer Schools</a></li>
 </ul>
 
-<a id="edu" />
+<hr id="edu" />
 
-***
 
 ## [Education](#edu)
 
@@ -58,9 +60,7 @@ August 2015 - May 2019
 Minor in Computer Science, Cum Laude with Honors in Mathematics and CS  
 Honors Thesis: "Capturing the Predictive Power of Cortical Learning Algorithms"
 
-<a id="research-exp" />
-
-***
+<hr id="research-exp" />
 
 ## [Research Experience](#research-exp)
 
@@ -68,8 +68,8 @@ Honors Thesis: "Capturing the Predictive Power of Cortical Learning Algorithms"
 [CyberGIS Center](https://cybergis.illinois.edu/) and [CyberInfrastructure and Geospatial Information Laboratory](https://cigi.illinois.edu/)  
 June 2019 - Present  
 * At the labs I worked under Dr. Shaowen Wang, Dr. Anand Padmanabhan, and Dr. Jeon-Young Kang on the "Algorithms & Systems" and "Spatial Modeling" teams.
-* Under the "Algorithms & Systems" team I primarily work to design, build, and administer cyberinfrastructure. Projects include [CyberGISX](https://cybergisxhub.cigi.illinois.edu/) and [Kubernetes-based CyberGIS-Jupyter for Water](https://www.hydroshare.org/resource/e9686eadd4474b6587d83d9330d25854/).
-* Developed Docker-based Hadoop cluster for educational and research applications.
+* Mentored multiple undergraduate students who joined the Algorithms & Systems team.
+* Under the "Algorithms & Systems" team I primarily work to design, build, and administer cyberinfrastructure. Projects include [CyberGISX](https://cybergisxhub.cigi.illinois.edu/), [Kubernetes-based CyberGIS-Jupyter for Water](https://www.hydroshare.org/resource/e9686eadd4474b6587d83d9330d25854/), and a Docker-based Hadoop cluster for educational and research applications.
 * Under the "Spatial Modeling" team, I wrote and published multiple spatial models for educational and research purposes. Projects include [WhereCOVID-19 App's Spatial Accessibility Explorer](https://wherecovid19.cigi.illinois.edu/).
 
 **SESYNC Graduate Research Fellow**  
@@ -84,9 +84,8 @@ June 2018 - August 2018
 * Worked for IPAM to develop a novel algorithm for computational fact-checking on knowledge graphs and a self-supervised machine learning algorithm for sentence importance which outperformed TF-IDF.
 
 
-<a id="teaching-exp" />
+<hr id="teaching-exp" />
 
-***
 
 ## [Teaching Experience](#teaching-exp)
 
@@ -96,9 +95,7 @@ August 2015 - December 2018
 * Assisted professors in grading, working with students individually, and developing curriculum for classes covering coursework in Calculus, Computer Science, and Operations Research.
 
 
-<a id="awards" />
-
-***
+<hr id="awards" />
 
 ## [Awards](#awards)
 
@@ -108,9 +105,7 @@ August 2015 - December 2018
   {{award.awarder}}
 {% endfor %}
 
-<a id="pub" />
-
-***
+<hr id="pub" />
 
 ## [Publications](#pub)
 
@@ -128,9 +123,7 @@ August 2015 - December 2018
 {% endfor %}
 </div>
 
-<a id="pres" />
-
-***
+<hr id="pres" />
 
 ## [Presentations](#pres)
 
@@ -159,9 +152,7 @@ August 2015 - December 2018
   </ul>
 {% endfor %}
 
-<a id="prof-assoc" />
-
-***
+<hr id="prof-assoc" />
 
 ## [Professional Associations](#prof-assoc)
 
@@ -174,9 +165,12 @@ Specialty Groups:
 * Spatial Analysis and Modeling  
 * Transportation Geography  
 
-<a id="prof-service" />
+**Association for Computing Machinery (ACM)**  
+Special Interest Groups:  
+* SIGSPATIAL (Spatial Information)
 
-***
+<hr id="prof-service" />
+
 
 ## [Professional Service](#prof-service)
 

@@ -1,10 +1,24 @@
----
----
+@article{michels2022,
+   title = {Particle Swarm Optimization for Calibration in Spatially Explicit Agent-Based Modeling},
+   author = {Michels, Alexander and Kang, Jeon-Young and Wang, Shaowen},
+   journal = {Journal of Artificial Societies and Social Simulation},
+   volume = {25},
+   number = {2},
+   pages = {8},
+   year = {2022},
+   doi = {https://www.jasss.org/25/2/8.html},
+   keywords = {Agent-Based Modeling, Particle Swarm Optimization, Calibration, CyberGIS, Influenza},
+   abstract = {A challenge in computational modeling of Agent-Based Models (ABMs) is the amount of time and resources required to tune a set of parameters for reproducing the observed patterns of phenomena being modeled. Well-tuned parameters are necessary for models to reproduce real-world multi-scale space-time patterns, but calibration is often computationally intensive and time consuming. Particle Swarm Optimization (PSO) is a swarm intelligence optimization algorithm that has found wide use for complex optimization including nonconvex and noisy problems. In this study, we propose to use PSO for calibrating parameters in ABMs. We use a spatially explicit ABM of influenza transmission based in Miami, Florida, USA as a case study. Furthermore, we demonstrate that a standard implementation of PSO can be used out-of-the-box to successfully calibrate models and out-performs Monte Carlo in terms of optimization and efficiency.},
+   selected = {true},
+   abmph = {true},
+   abbr = {JASSS}
+}		
+
 
 @article{Kang2021.09.03,
 	abbr = {TGIS},
     author = {Kang, Jeon-Young and Michels, Alexander and Crooks, Andrew and Aldstadt, Jared and Wang, Shaowen},
-    title = {An integrated framework of global sensitivity analysis and calibration for spatially explicit agent-based models},
+    title = {An Integrated Framework of Global Sensitivity Analysis and Calibration for Spatially Explicit Agent-Based Models},
     journal = {Transactions in GIS},
     volume = {26},
     number = {1},
@@ -14,6 +28,7 @@
     eprint = {https://onlinelibrary.wiley.com/doi/pdf/10.1111/tgis.12837},
     abstract = {Abstract Calibration of agent-based models (ABMs) is a major challenge due to the complex nature of the systems being modeled, the heterogeneous nature of geographical regions, the varying effects of model inputs on the outputs, and computational intensity. Nevertheless, ABMs need to be carefully tuned to achieve the desirable goal of simulating spatiotemporal phenomena of interest, and a well-calibrated model is expected to achieve an improved understanding of the phenomena. To address some of the above challenges, this article proposes an integrated framework of global sensitivity analysis (GSA) and calibration, called GSA-CAL. Specifically, variance-based GSA is applied to identify input parameters with less influence on differences between simulated outputs and observations. By dropping these less influential input parameters in the calibration process, this research reduces the computational intensity of calibration. Since GSA requires many simulation runs, due to ABMs' stochasticity, we leverage the high-performance computing power provided by the advanced cyberinfrastructure. A spatially explicit ABM of influenza transmission is used as the case study to demonstrate the utility of the framework. Leveraging GSA, we were able to exclude less influential parameters in the model calibration process and demonstrate the importance of revising local settings for an epidemic pattern in an outbreak.},
     year = {2022},
+    abmph = {true},
     selected = {true}
 }
 
@@ -42,7 +57,6 @@
   doi          = {https://doi.org/10.5281/zenodo.5569659},
   url          = {https://doi.org/10.5281/zenodo.5569659},
   abstract     = {JupyterHub [1] has become a popular choice in many scientific communities, offering an easy-to-use interface for users with little to no frontend development work while promoting reproducible and replicable (R&R) science [2]. In the broad geospatial science community, CyberGISX [3] provides such a gateway environment with many cyberGIS (i.e., geospatial information science and systems based on advanced cyberinfrastructure) and geospatial software packages prebuilt and ready to use. Like other JupyterHub-based solutions, CyberGISX also provides container-based access for its users and must balance a trade-off between providing a static compute environment which enhances R&R and continuously updating the software environment to keep up with advances in scientific software. Solutions such as Binder [4] have attempted to address this trade-off by having required dependencies encoded in the package and building the software environment at the time of use. However, such a solution comes with two major disadvantages: (a) software is built at the time it is needed, increasing startup time and introducing the possibility that some of the dependencies of the environment are no longer available or have changed; and (b) the onus of specifying and managing software installations is passed to notebook developers, many of whom are domain scientists and not comfortable with such responsibilities. To address these challenges and enhance R&R with minimal effort from end-users, we have designed and implemented a solution on CyberGISX that allows software to be kept on an external file server mounted into each user's environment. Scientific software is installed with Easybuild [5] and managed by Lmod [6] giving a variety of benefits: (1) the compute environment is more standardized and easily reproducible outside of the gateway; (2) multiple versions of software can be made available to users without increasing container size; and (3) the exact copies of software are always available on the gateway instead of being rebuilt for every release, further enhancing R&R. We also employ an Easybuild-installed Anaconda [7] to create and manage conda environments on the file server. The combination of the software stack from Easybuild and Python environment from conda provides end-users with kernels for their Jupyter notebooks which are persistent and unchanged as the gateway's container updates. This design enhances R&R and adds functionality for advanced users without introducing technical barriers to non-technical end-users. As such, domain scientists using this solution need not build their own software and specify dependencies, which helps prevent the notebooks they have developed from getting broken by the next software release. This talk explores the new architecture and applications of this solution to CyberGISX [3] and CyberGIS-Jupyter for Water (CJW) [8].},
-  selected     = {true},
   cybergisx    = {true}
 }
 
@@ -76,7 +90,7 @@ With CyberGIS-Compute we have designed an easy-to-use middleware and associated 
 	doi = {https://doi.org/10.1145/3423335.3428167},
 	abstract = {Urban land markets exhibit complex emergent behaviors that have yet to be fully explained by the microeconomic decision-making which constitutes the market. The Agent-based Land MArket (ALMA) framework has been introduced to simulate a bilateral agent-based land market that produces a rent gradient. In this paper, we extend the ALMA framework by introducing two new parameters, heterogeneity, and stochasticity which allow us to explore how the rent gradient is affected by buyers with diverse preferences and a range of market compositions.},
 	booktitle = {Proceedings of the 3rd ACM SIGSPATIAL International Workshop on GeoSpatial Simulation},
-	pages = {48–51},
+	pages = {48-51},
 	numpages = {4},
 	keywords = {agent-based modeling, spatial simulation, land markets},
 	location = {Seattle, Washington},
@@ -112,5 +126,6 @@ With CyberGIS-Compute we have designed an easy-to-use middleware and associated 
 	address = {New York, NY, USA},
 	pages = {32--35},
 	doi = {https://doi.org/10.1145/3356470.3365531},
+    abmph = {true},
     cybergisx = {true}
 }
