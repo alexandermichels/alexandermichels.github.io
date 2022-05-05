@@ -36,7 +36,6 @@ Resume: <a href="https://docs.google.com/viewer?url=https://github.com/alexander
     </ul>
     <li><a href="#prof-assoc">Professional Associations</a></li>
     <li><a href="#prof-service">Professional Service</a></li>
-    <li><a href="#workshops">Workshops & Summer Schools</a></li>
 </ul>
 
 <hr id="edu" />

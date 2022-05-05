@@ -1,0 +1,40 @@
+# journals are hand-sorted by SJR
+- category: "GIScience"
+  link: "giscience"
+  desc: "Journals that publish work in GIScience, GIS, and CyberGIS"
+  journals:
+    - "28795"  # GIScience and Remote Sensing
+    - "21100463801"  # Annals of the Association of American Geographers
+    - "39563"  #  International Journal of Applied Earth Observation and Geoinformation
+    - "23269"  # Computers, Environment, and Urban Systems
+    - "28040"  # International Journal of GIS
+    - "27471"  # Applied Geography
+    - "110327"  # Computers and Geoscience
+    - "21101021196"  # Environment and Planning B
+    - "19700187627"  # International Journal of Digital Earth
+    - "28671"  # Geographical Analysis
+    - "27639"  # Cartography and Geographic Information Science
+    - "13178"  # Transactions in GIS
+    - "19700201402"  # Annals of GIS
+    - "21100427639"  #  ISPRS International Journal of Geo-Information
+    - "21100332424"  # Journal of Spatial Information Science
+    - "5800208235"  # Spatial Cognition and Computation
+    - "28042"  # Journal of Geographical Systems
+    - "62444"  # Journal of Spatial Science
+    - "24506"  # GeoInformatica
+    - "27637"  # Cartographica
+- category: "Remote Sensing"
+  link: "rs"
+  desc: "Journals with a focus on remote sensing."
+  journals:
+    - "12503"  # Remote Sensing of Environment
+    - "29161"  # ISPRS Journal of Photogrammetry and Remote Sensing
+    - "17360"  # IEEE Transactions on Geoscience and Remote Sensing
+    - "22674"  # International Journal of Remote Sensing
+    - "12366"  # Photogrammetric Engineering and Remote Sensing
+# - category: "Health Geography"
+#   link: "healthgeog"
+#   desc: "Journals with a focus on health geography."
+#   journals:
+#     - "29102"  # Health and Place
+#     - "21463"  # International Journal of Health Geographics

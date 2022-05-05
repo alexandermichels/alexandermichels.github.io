@@ -4,11 +4,20 @@
     - platform: github
       user: "cybergis"
       repo: "intro-to-keeling"
+    - platform: github
+      user: "cybergis"
+      repo: "QueenAnneFlu"
     # - platform: github
     #   user: "cybergis"
     #   repo: "intro-to-osm-network-data"
-- category: "Jupyter Notebooks"
-  link: "jupyter"
+# - category: "Jupyter Notebooks"
+#   link: "jupyter"
+#   repos:
+#     - platform: github
+#       user: "cybergis"
+#       repo: "QueenAnneFlu"
+- category: "Research Code"
+  link: "research"
   repos:
     - platform: github
       user: "cybergis"
@@ -16,12 +25,6 @@
     - platform: github
       user: "cybergis"
       repo: "COVID-19AccessibilityNotebook"
-    - platform: github
-      user: "cybergis"
-      repo: "QueenAnneFlu"
-- category: "Research Code"
-  link: "research"
-  repos:
     - platform: github
       user: "cybergis"
       repo: "cybergis-compute-python-sdk"
@@ -34,7 +37,7 @@
     # - platform: github
     #   user: himahuja
     #   repo: pcatxcore
-# - category: "Free and Open-Source Software"
+# - category: "Open-Source Software"
 #   link: "foss"
 #   repos:
 #     - platform: github
