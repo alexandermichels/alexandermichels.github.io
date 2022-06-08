@@ -7,6 +7,8 @@ nav: true
 display_categories: [Cyberinfrastructure, Spatial Analysis, Agent-Based Modeling]
 ---
 
+In addition to the below research projects and [software work](/code), I put together [a small dashboard on GIScience journals](/gisci-journals).
+
 <div class="projects">
   {% if site.enable_project_categories and page.display_categories %}
   <!-- Display categorized projects -->

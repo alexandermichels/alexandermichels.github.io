@@ -19,14 +19,14 @@ Resume: <a href="https://github.com/alexandermichels/CV/blob/master/Resume.pdf" 
     <li><a href="#awards">Awards</a></li>
     <li><a href="#pub">Publications</a></li>
     <ul>
-    {% for type in site.scholar.type_order %}
+        {% for type in site.scholar.keyword_order %}
         {%- capture citecount -%}
-        {%- bibliography_count --query @{{type}} -%}
+        {%- bibliography_count --query @*[{{type}}=true] -%}
         {%- endcapture -%}
         {% if citecount != "0"  %}
-            <li><a href="#{{type}}">{{ site.scholar.type_names[type] }}</a></li>
+            <li><a href="#{{type}}">{{ site.scholar.keyword_names[type] }}</a></li>
         {% endif %}
-    {% endfor %}
+        {% endfor %}
     </ul>
     <li><a href="#pres">Presentations</a></li>
     <ul>
@@ -66,10 +66,9 @@ Honors Thesis: "Capturing the Predictive Power of Cortical Learning Algorithms"
 **CyberGIS Center for Advanced Digital and Spatial Studies**  
 [CyberGIS Center](https://cybergis.illinois.edu/) and [CyberInfrastructure and Geospatial Information Laboratory](https://cigi.illinois.edu/)  
 June 2019 - Present  
-* At the labs I worked under Dr. Shaowen Wang, Dr. Anand Padmanabhan, and Dr. Jeon-Young Kang on the "Algorithms & Systems" and "Spatial Modeling" teams.
-* Mentored multiple undergraduate students who joined the Algorithms & Systems team.
-* Under the "Algorithms & Systems" team I primarily work to design, build, and administer cyberinfrastructure. Projects include [CyberGISX](https://cybergisxhub.cigi.illinois.edu/), [Kubernetes-based CyberGIS-Jupyter for Water](https://www.hydroshare.org/resource/e9686eadd4474b6587d83d9330d25854/), and a Docker-based Hadoop cluster for educational and research applications.
-* Under the "Spatial Modeling" team, I wrote and published multiple spatial models for educational and research purposes. Projects include [WhereCOVID-19 App's Spatial Accessibility Explorer](https://wherecovid19.cigi.illinois.edu/).
+* Worked under Dr. Shaowen Wang and Dr. Anand Padmanabhan on the "Spatial Modeling" and "Algorithms & Systems" teams.
+* Under the "Algorithms & Systems" team I primarily work to design, build, and administer cyberinfrastructure. Projects include [CyberGISX](https://cybergisxhub.cigi.illinois.edu/), [CyberGIS-Jupyter for Water](https://go.illinois.edu/cybergis-jupyter-water/), [CyberGIS-Compute](https://cybergis.github.io/cybergis-compute-python-sdk) and a Hadoop cluster for educational and research applications. Technologies include Docker, Docker Swarm, Kubernetes, OpenStack, Terraform, and Ansible. I also supervised and mentored four undergraduate students who joined the Algorithms & Systems team.
+* Under the "Spatial Modeling" team, I wrote and published multiple spatial models for educational and research purposes. Projects include [WhereCOVID-19 App's Spatial Accessibility Explorer](https://wherecovid19.cigi.illinois.edu/) and Spatial Agent-Based Models (SABMs).
 
 **SESYNC Graduate Research Fellow**  
 National Socio-Environmental Synthesis Center (SESYNC)  
@@ -109,7 +108,7 @@ August 2015 - December 2018
 ## [Publications](#pub)
 
 <!--See [publications page](/publications/)-->
-
+{% comment %}
 <div class="publications">
 {% for type in site.scholar.type_order %}
   {%- capture citecount -%}
@@ -118,6 +117,19 @@ August 2015 - December 2018
   {% if citecount != "0"  %}
     <h3 id="{{type}}">{{ site.scholar.type_names[type] }}</h3>
     {% bibliography --query @{{type}} --group_by year --group_order descending %}
+  {% endif %}
+{% endfor %}
+</div>
+{% endcomment %}
+
+<div class="publications">
+{% for type in site.scholar.keyword_order %}
+  {%- capture citecount -%}
+  {%- bibliography_count --query @*[{{type}}=true] -%}
+  {%- endcapture -%}
+  {% if citecount != "0"  %}
+    <h2 id="{{type}}">{{ site.scholar.keyword_names[type] }}</h2>
+    {% bibliography --query @*[{{type}}=true] --group_by year --group_order descending %}
   {% endif %}
 {% endfor %}
 </div>
@@ -173,14 +185,29 @@ Special Interest Groups:
 
 ## [Professional Service](#prof-service)
 
-**Director**  
-AAG CyberInfrastructure Specialty Group (CISG)  
-February 2022 - Present  
+### Conference and Workshops
 
 **Session Organizer**, Computation and Uncertainty of Spatial Accessibility  
 AAG 2022 Symposium on Data-Intensive Geospatial Understanding in the Era of AI and CyberGIS  
 February 2022
 
+
+### Professional Organizations
+
+**Director**  
+AAG CyberInfrastructure Specialty Group (CISG)  
+February 2022 - Present  
+
 **Student Director**  
 AAG CyberInfrastructure Specialty Group (CISG)  
 April 2021 - February 2022 
+
+
+
+### Departmental Service
+
+**Program Ambassador**  
+UIUC Informatics Program  
+Hosted Q\&A sessions for prospective and incoming Informatics students  
+2022-Present  
+

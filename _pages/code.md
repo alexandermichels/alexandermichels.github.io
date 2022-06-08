@@ -2,7 +2,7 @@
 layout: page
 permalink: /code/
 title: Code
-description: Code I have written or contributed to.
+description: Code I have written or made signficant contributions to.
 nav: true
 ---
 
@@ -16,6 +16,7 @@ Docker badges: https://shields.io/category/downloads
   <a id="{{category.link}}"></a>
   <div class="theme-card hoverable mt-3 p-3">
   <h2 style="text-align: center;"><a href="#{{category.link}}">{{category.category}}</a></h2>
+  <p>{{category.desc}}</p>
   {% for repo in category.repos %}
     {% if repo.platform == "github" %}
         <div class="row">
@@ -44,4 +45,3 @@ Docker badges: https://shields.io/category/downloads
     <iframe src="https://ghbtns.com/github-btn.html?user={{site.github_username}}&type=sponsor" frameborder="0" scrolling="0" width="280" height="30" title="GitHub"></iframe>
 </div>
 <hr>
-Also check out my notebooks on <a href="https://cybergisxhub.cigi.illinois.edu/user-profile/alexandermichels/" target="_blank">CyberGISXHub</a>.

@@ -1,23 +1,6 @@
-- category: "Educational Materials and Guides"
-  link: "edu"
-  repos:
-    - platform: github
-      user: "cybergis"
-      repo: "intro-to-keeling"
-    - platform: github
-      user: "cybergis"
-      repo: "QueenAnneFlu"
-    # - platform: github
-    #   user: "cybergis"
-    #   repo: "intro-to-osm-network-data"
-# - category: "Jupyter Notebooks"
-#   link: "jupyter"
-#   repos:
-#     - platform: github
-#       user: "cybergis"
-#       repo: "QueenAnneFlu"
 - category: "Research Code"
   link: "research"
+  desc: "Code written to answer research questions."
   repos:
     - platform: github
       user: "cybergis"
@@ -27,9 +10,6 @@
       repo: "COVID-19AccessibilityNotebook"
     - platform: github
       user: "cybergis"
-      repo: "cybergis-compute-python-sdk"
-    - platform: github
-      user: "cybergis"
       repo: "cybergisx-cli"
     - platform: github
       user: "cybergis"
@@ -37,11 +17,33 @@
     # - platform: github
     #   user: himahuja
     #   repo: pcatxcore
-# - category: "Open-Source Software"
-#   link: "foss"
-#   repos:
+- category: "Open-Source Software"
+  link: "foss"
+  desc: "Open-source software that you should try out!"
+  repos:
+    - platform: github
+      user: "cybergis"
+      repo: "cybergis-compute-python-sdk"
 #     - platform: github
 #       user: "alexandermichels"
 #       repo: "MintSetup"
-      
-  
+- category: "Educational Materials and Guides"
+  link: "edu"
+  desc: "Guides, tutorials, and walkthroughs designed to help teach."
+  repos:
+    - platform: github
+      user: "cybergis"
+      repo: "github-pages-demo"
+    - platform: github
+      user: "cybergis"
+      repo: "intro-to-keeling"
+- category: "Jupyter Notebooks"
+  link: "jupyter"
+  desc: 'Jupyter notebooks designed to teach and demonstrate. Also check out my notebooks on <a href="https://cybergisxhub.cigi.illinois.edu/user-profile/alexandermichels/" target="_blank">CyberGISXHub</a>.'
+  repos:
+    - platform: github
+      user: "cybergis"
+      repo: "QueenAnneFlu"
+    # - platform: github
+    #   user: "cybergis"
+    #   repo: "intro-to-osm-network-data"

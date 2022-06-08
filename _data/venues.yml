@@ -1,14 +1,19 @@
 "Gateways":
   url: "https://sciencegateways.org/engage/annual-conference"
+  type: "conf"
 
 "IJHG":
   url: "https://ij-healthgeographics.biomedcentral.com"
+  type: "journal"
 
 "JASSS":
   url: "https://www.jasss.org/JASSS.html"
+  type: "journal"
 
 "SIGSPATIAL":
   url: "https://www.sigspatial.org/"
+  type: "conf"
 
 "TGIS":
   url: "https://onlinelibrary.wiley.com/journal/14679671"
+  type: "journal"
