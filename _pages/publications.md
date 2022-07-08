@@ -8,6 +8,42 @@ nav: true
 
 For an up-to-date list and metrics see <a href="https://scholar.google.com/citations?user={{ site.scholar_userid }}" target="_blank" title="Google Scholar">Google Scholar  <i class="ai ai-google-scholar"></i></a>. 
 
+To quickly summarize where I publish:
+
+<div class="row">
+<div class="col-sm-6">
+    <h3>Journals:</h3>
+    {% for venue in site.data.venues %}
+    {% if venue[1].type == "journal" %}
+    <div class="theme-card hoverable mt-2 p-2">
+        <details>
+            <summary><i>{{venue[1].name}}</i></summary>
+            <hr />
+            <b><a href='{{venue[1].url}}' target="_blank">{{venue[0]}} -</a></b>
+            {{venue[1].desc}}
+        </details>
+    </div>
+    {% endif %}
+    {% endfor %}
+</div>
+<div class="col-sm-6">
+    <h3>Conferences:</h3>
+    {% for venue in site.data.venues %}
+    {% if venue[1].type == "conf" %}
+    <div class="theme-card hoverable mt-2 p-2">
+        <details>
+            <summary><i>{{venue[1].name}}</i></summary>
+            <hr />
+            <b><a href='{{venue[1].url}}' target="_blank">{{venue[0]}} -</a></b>
+            {{venue[1].desc}}
+        </details>
+    </div>
+    {% endif %}
+    {% endfor %}
+</div>
+</div>
+
+
 
 {% comment %}
 <h2>Table of Contents</h2>

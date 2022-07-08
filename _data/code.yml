@@ -37,6 +37,9 @@
     - platform: github
       user: "cybergis"
       repo: "intro-to-keeling"
+    - platform: github
+      user: "cybergis"
+      repo: "pysal-access-compute-example"
 - category: "Jupyter Notebooks"
   link: "jupyter"
   desc: 'Jupyter notebooks designed to teach and demonstrate. Also check out my notebooks on <a href="https://cybergisxhub.cigi.illinois.edu/user-profile/alexandermichels/" target="_blank">CyberGISXHub</a>.'

@@ -1,19 +1,35 @@
 "Gateways":
-  url: "https://sciencegateways.org/engage/annual-conference"
+  name: "Gateways"
+  url: "https://sciencegateways.org/networking-community/annual-conference"
   type: "conf"
+  desc: "Science gateways allow academic research or education communities to access shared data, software, computing services, instruments, educational materials, and other resources specific to their disciplines. They are typically a web portal or a suite of desktop applications."
 
 "IJHG":
+  name: "International Journal of Health Geographics (IJHG)"
   url: "https://ij-healthgeographics.biomedcentral.com"
   type: "journal"
+  desc: "International Journal of Health Geographics covers a wide range of interdisciplinary geospatial topics in a health/healthcare context, from spatial data infrastructure and Web geospatial interoperability research, to research into real-time Geographic Information Systems (GIS)-enabled surveillance services, remote sensing applications, spatial epidemiology, spatio-temporal statistics, internet GIS and cyberspace mapping, participatory GIS and citizen sensing, geospatial big data, healthy smart cities and regions, and geospatial Internet of Things and blockchain."
 
 "JASSS":
+  name: "Journal of Artificial Societies and Social Simulation (JASSS)"
   url: "https://www.jasss.org/JASSS.html"
   type: "journal"
+  desc: "The Journal of Artificial Societies and Social Simulation is an interdisciplinary journal for the exploration and understanding of social processes by means of computer simulation."
+
+"PEARC":
+  name: "ACM Practice and Experience in Advanced Research Computing (PEARC)"
+  url: "https://pearc.acm.org/"
+  type: "conf"
+  desc: "The ACM Practice and Experience in Advanced Research Computing (PEARC) Conference Series is a community-driven effort that unites cyberinfrastructure and research computing practitioners, developers, and users by providing a forum for discussing ideas, findings, techniques, tools, and experiences."
 
 "SIGSPATIAL":
+  name: "ACM SIGSPATIAL International Conference on Advances in Geographic Information Systems (SIGSPATIAL)"
   url: "https://www.sigspatial.org/"
   type: "conf"
+  desc: "The ACM SIGSPATIAL International Conference on Advances in Geographic Information Systems 2022 (ACM SIGSPATIAL 2022) began as a series of symposia and workshops starting in 1993 with the aim of bringing together researchers, developers, users, and practitioners in relation to novel systems based on geospatial data and knowledge, and fostering interdisciplinary discussions and research in all aspects of geographic information systems."
 
 "TGIS":
+  name: "Transactions in GIS (TGIS)"
   url: "https://onlinelibrary.wiley.com/journal/14679671"
   type: "journal"
+  desc: "Transactions in GIS is an international, peer-reviewed journal that publishes original research articles, review articles, and short technical notes on the latest advances and best practices in the spatial sciences. The spatial sciences include all of the different ways in which geography may be used to organize, represent, store, analyze, model and visualize information."
