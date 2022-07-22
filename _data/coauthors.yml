@@ -10,6 +10,10 @@
   - firstname: ["Andrew", "A", "A."]
     url: https://scholar.google.com/citations?user=RDQF0ScAAAAJ
 
+"Han":
+  - firstname: ["Su", "S.", "Su Yeon", "S. Y."]
+    url: https://scholar.google.com/citations?user=oVTYA5kAAAAJ&hl
+
 "Kang":
   - firstname: ["Jeon-Young", "J-Y", "J.-Y."]
     url: https://scholar.google.com/citations?user=u5cevWAAAAAJ

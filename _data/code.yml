@@ -13,6 +13,9 @@
       repo: "cybergisx-cli"
     - platform: github
       user: "cybergis"
+      repo: "cybergis-compute-spatial-access-covid-19"
+    - platform: github
+      user: "cybergis"
       repo: "PSONotebook"
     # - platform: github
     #   user: himahuja
@@ -40,13 +43,13 @@
     - platform: github
       user: "cybergis"
       repo: "pysal-access-compute-example"
-- category: "Jupyter Notebooks"
-  link: "jupyter"
-  desc: 'Jupyter notebooks designed to teach and demonstrate. Also check out my notebooks on <a href="https://cybergisxhub.cigi.illinois.edu/user-profile/alexandermichels/" target="_blank">CyberGISXHub</a>.'
-  repos:
     - platform: github
       user: "cybergis"
       repo: "QueenAnneFlu"
     # - platform: github
     #   user: "cybergis"
     #   repo: "intro-to-osm-network-data"
+# - category: "Jupyter Notebooks"
+#   link: "jupyter"
+#   desc: 'Jupyter notebooks designed to teach and demonstrate. Also check out my notebooks on <a href="https://cybergisxhub.cigi.illinois.edu/user-profile/alexandermichels/" target="_blank">CyberGISXHub</a>.'
+#   repos:

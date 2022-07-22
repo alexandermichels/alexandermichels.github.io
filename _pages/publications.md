@@ -8,7 +8,8 @@ nav: true
 
 For an up-to-date list and metrics see <a href="https://scholar.google.com/citations?user={{ site.scholar_userid }}" target="_blank" title="Google Scholar">Google Scholar  <i class="ai ai-google-scholar"></i></a>. 
 
-To quickly summarize where I publish:
+<details>
+<summary>Click here for a quick summary of the journals/conferences where I have published.</summary>
 
 <div class="row">
 <div class="col-sm-6">
@@ -42,6 +43,7 @@ To quickly summarize where I publish:
     {% endfor %}
 </div>
 </div>
+</details>
 
 
 

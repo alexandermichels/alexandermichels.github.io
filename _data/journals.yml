@@ -23,6 +23,16 @@
     - "62444"  # Journal of Spatial Science
     - "5800208235"  # Spatial Cognition and Computation
     - "27637"  # Cartographica
+- category: "Health Geography"
+  link: "healthgeog"
+  desc: "Journals with a focus on health geography."
+  journals:
+    - "29102"  # Health and Place
+    - "21100924773"  # GeoHealth
+    - "21463"  # International Journal of Health Geographics
+    - "21100310028"  # Journal of Transport and Health
+    - "19700167025"  # Spatial and Spatio-temporal Epidemiology
+    - "12400154713"  # Geospatial Health
 - category: "Remote Sensing"
   link: "rs"
   desc: "Journals with a focus on remote sensing."
@@ -33,9 +43,21 @@
     - "28795"  # GIScience and Remote Sensing
     - "22674"  # International Journal of Remote Sensing
     - "12366"  # Photogrammetric Engineering and Remote Sensing
-# - category: "Health Geography"
-#   link: "healthgeog"
-#   desc: "Journals with a focus on health geography."
-#   journals:
-#     - "29102"  # Health and Place
-#     - "21463"  # International Journal of Health Geographics
+- category: "Transportation"
+  link: "transport"
+  desc: "Journal with a focus on transportation."
+  journals:
+    - "20892"  # Transportation Research Part B: Methodological
+    - "20893"  # Transportation Research Part C: Emerging Technologies
+    - "98982"  # Transport Reviews
+    - "20909"  # Transportation Research, Part E: Logistics and Transportation Review
+    - "20910"  # Transportation Science
+    - "21100205751"  # Journal of Public Transportation
+    - "20891"  # Transportation Research, Part A: Policy and Practice
+    - "21100943534"  # Transportation Research Interdisciplinary Perspectives
+    - "20894"  # Transportation Research, Part D: Transport and Environment
+    - "29295"  # Journal of Transport Geography
+    - "20864"  # Transportation
+    - "20838"  # Transport Policy
+    - "20897"  # Transportation Research Part F: Traffic Psychology and Behaviour
+    - "21100223534"  # Journal of Transport and Land Use

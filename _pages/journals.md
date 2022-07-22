@@ -10,12 +10,16 @@ I found it difficult to use the [Scimago Journal Ranking](https://www.scimagojr.
 I am not an expert in bibliometrics or scientometrics so this is a fun tool, but not one to be taken seriously. The journals are hand-sorted by SJR and thus won't always be in order. This list is also *extremely* biased towards the US and only looks at English language journals. Also note that a lot of amazing work in GIScience happens at conferences, so journals do not give the complete picture. 
 
 {% for category in site.data.journals %}
-  <a id="{{category.link}}"></a>
-  <div class="theme-card hoverable mt-3 p-3" style="text-align: center">
-  <h2 style="text-align: center;"><a href="#{{category.link}}">{{category.category}}</a></h2>
+<a id="{{category.link}}"></a>
+<div class="theme-card hoverable mt-3 p-3" style="text-align: center">
+  <details>
+  <summary>
+  <h2 style="text-align: center; display: inline;"><a href="#{{category.link}}">{{category.category}}</a></h2>
   <p>{{category.desc}}</p>
+  </summary>
   {% for journal in category.journals %}
     <a href="https://www.scimagojr.com/journalsearch.php?q={{journal}}&amp;tip=sid&amp;exact=no" target="_blank" title="SCImago Journal &amp; Country Rank"><img border="0" src="https://www.scimagojr.com/journal_img.php?id={{journal}}" alt="SCImago Journal &amp; Country Rank"  /></a>
   {% endfor %}
+  </details>
   </div>
 {% endfor %}
