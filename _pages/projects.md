@@ -4,7 +4,7 @@ title: Projects
 permalink: /projects/
 description: A few of the projects I've been involved with
 nav: true
-display_categories: [Cyberinfrastructure, Spatial Analysis, Agent-Based Modeling]
+display_categories: [Spatial Analysis, Cyberinfrastructure, Agent-Based Modeling]
 ---
 
 In addition to the below research projects and [software work](/code), I put together [a small dashboard on GIScience journals](/gisci-journals).

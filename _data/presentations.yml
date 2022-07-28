@@ -49,14 +49,18 @@
 - type: "Invited Talks"
   link: "invited"
   presentations:
+    - title: "CyberGIS-Compute: Geospatial Middleware for Simplifying Access to High-Performance Computing."
+      event: "with Dr. Anand Padmanabhan. NSF Institute for Geospatial Understanding through an Integrative Discovery Environment (I-GUIDE) - Virtual Consulting Office"
+      place: Virtual
+      time: July 27, 2022
     - title: Information Extraction and Aggregation for Business Profiling
       event: Institute for Pure and Applied Mathematics (IPAM)
       place: Los Angeles, CA  
       time: August 2018
-    - title: Information Extraction and Aggregation for Business Profiling
-      event: Praedicat, Inc.
-      place: Los Angeles, CA  
-      time: July 2018
+    # - title: Information Extraction and Aggregation for Business Profiling
+    #   event: Praedicat, Inc.
+    #   place: Los Angeles, CA  
+    #   time: July 2018
 - type: "Poster Sessions"
   link: "poster"
   presentations:

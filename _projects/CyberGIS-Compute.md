@@ -5,6 +5,7 @@ description: Democratizing HPC for geospatial developers
 img: /assets/gif/CyberGIS-ComputeHello.gif
 importance: 1
 category: Cyberinfrastructure
+github: https://github.com/cybergis/cybergis-compute-python-sdk
 ---
 
 <div class="row">

@@ -22,6 +22,12 @@
   type: "conf"
   desc: "The ACM Practice and Experience in Advanced Research Computing (PEARC) Conference Series is a community-driven effort that unites cyberinfrastructure and research computing practitioners, developers, and users by providing a forum for discussing ideas, findings, techniques, tools, and experiences."
 
+"PLOS ONE":
+  name: "PLOS ONE"
+  url: "https://journals.plos.org/plosone/"
+  type: "journal"
+  desc: "PLOS ONE welcomes original research submissions from the natural sciences, medical research, engineering, as well as the related social sciences and humanities."
+
 "SIGSPATIAL":
   name: "ACM SIGSPATIAL International Conference on Advances in Geographic Information Systems (SIGSPATIAL)"
   url: "https://www.sigspatial.org/"
