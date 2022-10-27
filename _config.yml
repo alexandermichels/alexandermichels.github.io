@@ -180,8 +180,8 @@ scholar:
   keyword_names: {
     "jour": Journal Articles,
     "bookchap": "Book Chapters",
-    "confpaper": Peer-Reviewed Conference Papers,
-    "extabs": Peer-Reviewed Abstracts
+    "confpaper": "Peer-Reviewed Conference Papers",
+    "extabs": "Peer-Reviewed Published Abstracts"
   }
 
   query: "@*"

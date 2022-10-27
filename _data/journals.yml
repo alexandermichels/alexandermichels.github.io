@@ -43,6 +43,15 @@
     - "28795"  # GIScience and Remote Sensing
     - "22674"  # International Journal of Remote Sensing
     - "12366"  # Photogrammetric Engineering and Remote Sensing
+# - category: "Software"
+#   link: "software"
+#   desc: "Journals with a focus on open-source software."
+#   journals:
+#     - "21100422153"  # SoftwareX
+#     - "12137"  # Journal of Statistical Software
+#     - "27871"  # Concurrency and Computation: Practice and Experience
+#     - "13185"  # Computing in Science and Engineering
+#     - "21100867250"  # Journal of Open Research Software
 - category: "Transportation"
   link: "transport"
   desc: "Journal with a focus on transportation."

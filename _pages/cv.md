@@ -169,10 +169,10 @@ August 2015 - December 2018
 
 **American Association of Geographers (AAG)**  
 Specialty Groups:   
+* Applied Geography  
 * Cyberinfrastructure (CISG)  
-* Economic Geography  
-* Graduate Student Affinity Group (GSAG)  
-* Socialist and Critical Geography  
+* Geographic Information Science & Systems  
+* Health and Medical Geography  
 * Spatial Analysis and Modeling  
 * Transportation Geography  
 
