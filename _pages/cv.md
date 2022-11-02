@@ -187,9 +187,14 @@ Special Interest Groups:
 
 ### Conference and Workshops
 
+**Symposium Program Co-Chair**  
+[AAG 2023 Symposium on Harnessing the Geospatial Data Revolution for Sustainability Solutions](https://iguide.illinois.edu/aag-2023-symposium-on-harnessing-the-geospatial-data-revolution-for-sustainability-solutions/)  
+
+**Session Organizer**, Data-intensive and Computational Geography  
+[AAG 2023 Symposium on Harnessing the Geospatial Data Revolution for Sustainability Solutions](https://iguide.illinois.edu/aag-2023-symposium-on-harnessing-the-geospatial-data-revolution-for-sustainability-solutions/)  
+
 **Session Organizer**, Computation and Uncertainty of Spatial Accessibility  
 AAG 2022 Symposium on Data-Intensive Geospatial Understanding in the Era of AI and CyberGIS  
-February 2022
 
 
 ### Professional Organizations

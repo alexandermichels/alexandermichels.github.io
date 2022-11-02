@@ -26,6 +26,9 @@
   repos:
     - platform: github
       user: "cybergis"
+      repo: "cybergis-compute-core"
+    - platform: github
+      user: "cybergis"
       repo: "cybergis-compute-python-sdk"
 #     - platform: github
 #       user: "alexandermichels"
@@ -34,6 +37,9 @@
   link: "edu"
   desc: "Guides, tutorials, and walkthroughs designed to help teach."
   repos:
+    - platform: github
+      user: "cybergis"
+      repo: "cybergis-compute-examples"
     - platform: github
       user: "cybergis"
       repo: "github-pages-demo"

@@ -49,6 +49,10 @@
 - type: "Invited Talks"
   link: "invited"
   presentations:
+    - title: "CyberGIS-Compute: Enabling Simplified Access to High Performance Computing for your Geospatial Computation."
+      event: "with Dr. Anand Padmanabhan. NSF Institute for Geospatial Understanding through an Integrative Discovery Environment (I-GUIDE) - Virtual Consulting Office"
+      place: Virtual
+      time: Nov 2, 2022
     - title: "CyberGIS-Compute: Geospatial Middleware for Simplifying Access to High-Performance Computing."
       event: "with Dr. Anand Padmanabhan. NSF Institute for Geospatial Understanding through an Integrative Discovery Environment (I-GUIDE) - Virtual Consulting Office"
       place: Virtual
