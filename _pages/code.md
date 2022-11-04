@@ -3,7 +3,7 @@ layout: page
 permalink: /code/
 title: Code
 description: Code I have written or made signficant contributions to.
-nav: true
+nav: false
 ---
 
 

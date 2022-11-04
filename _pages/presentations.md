@@ -3,7 +3,7 @@ layout: page
 permalink: /presentations/
 title: Presentations
 description: Presentations and posters from past conferences.
-nav: true
+nav: false
 ---
 
 

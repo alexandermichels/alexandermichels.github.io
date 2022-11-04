@@ -3,11 +3,11 @@ layout: page
 title: Projects
 permalink: /projects/
 description: A few of the projects I've been involved with
-nav: true
+nav: false
 display_categories: [Spatial Analysis, Cyberinfrastructure, Agent-Based Modeling]
 ---
 
-In addition to the below research projects and [software work](/code), I put together [a small dashboard on GIScience journals](/gisci-journals).
+In addition to the below research projects and [software work](/code).
 
 <div class="projects">
   {% if site.enable_project_categories and page.display_categories %}
