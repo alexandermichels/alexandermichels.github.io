@@ -87,6 +87,10 @@ June 2018 - August 2018
 
 ## [Teaching Experience](#teaching-exp)
 
+**Business Location Decisions (GGIS/BADM 205)**, Spring 2023  
+Department of Geography and Geographic Information Science  
+*Analyzes location decision-making emphasizing industrial and commercial location patterns; identifies important institutional factors and their changing roles over the recent past; and focuses on plant closings, economic disruptions, and problems of structural change.*  
+
 **Teaching Assistant and Tutor**  
 Westminster College  
 August 2015 - December 2018  

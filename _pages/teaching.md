@@ -2,10 +2,12 @@
 layout: page
 permalink: /teaching/
 title: Teaching
-description: Materials for courses you taught. Replace this text with your description.
-nav: false
+description: Courses I have taught and related materials.
+nav: true
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
+## Courses Taught
 
-Organize your courses by years, topics, or universities, however you like!
+**Business Location Decisions (GGIS/BADM 205)**, Spring 2023  
+Department of Geography and Geographic Information Science, UIUC  
+*Analyzes location decision-making emphasizing industrial and commercial location patterns; identifies important institutional factors and their changing roles over the recent past; and focuses on plant closings, economic disruptions, and problems of structural change.*  
