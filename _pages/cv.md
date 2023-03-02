@@ -184,6 +184,8 @@ Specialty Groups:
 Special Interest Groups:  
 * SIGSPATIAL (Spatial Information)
 
+**Cartography and Geographic Information Society (CaGIS)**  
+
 <hr id="prof-service" />
 
 
@@ -199,6 +201,10 @@ Special Interest Groups:
 
 **Session Organizer**, Computation and Uncertainty of Spatial Accessibility  
 AAG 2022 Symposium on Data-Intensive Geospatial Understanding in the Era of AI and CyberGIS  
+
+### Journal Reviewer
+
+* Geocarto International, Taylor & Francis
 
 
 ### Professional Organizations
@@ -217,6 +223,6 @@ April 2021 - February 2022
 
 **Program Ambassador**  
 UIUC Informatics Program  
-Hosted Q\&A sessions for prospective and incoming Informatics students  
+Hosted Q&A sessions for prospective and incoming Informatics students  
 2022-Present  
 
