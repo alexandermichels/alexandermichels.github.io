@@ -30,6 +30,10 @@
   - firstname: ["Anand", "A", "A."]
     url: "https://scholar.google.com/citations?user=ADQABncAAAAJ"
 
+"Park":
+  - firstname: ["Jinwoo", "J", "J."]
+    url: "https://scholar.google.com/citations?user=nWiH4jsAAAAJ"
+
 "Vandewalle":
   - firstname: ["Rebecca", "Becky", "R", "B", "R.", "B."]
     url: "https://scholar.google.com/citations?user=1WzQbAgAAAAJ"
