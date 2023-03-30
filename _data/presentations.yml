@@ -1,6 +1,10 @@
 - type: "Conference Presentations"
   link: "conference"
   presentations:
+    - title: "Exploring Road Infrastructure Inequities Across the Conterminous U.S."
+      event: American Association of Geographers Annual Meeting
+      time: March 2023
+      place: Denver, CO
     - title: "SCAMEL: Spatial Accessibility Analysis at Scale"
       event: American Association of Geographers Annual Meeting
       time: February 2022

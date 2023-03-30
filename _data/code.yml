@@ -39,6 +39,9 @@
   repos:
     - platform: github
       user: "cybergis"
+      repo: "AAG2023-ComputeTutorial"
+    - platform: github
+      user: "cybergis"
       repo: "cybergis-compute-examples"
     - platform: github
       user: "cybergis"
