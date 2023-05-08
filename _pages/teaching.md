@@ -6,6 +6,13 @@ description: Courses I have taught and related materials.
 nav: true
 ---
 
+## Awards & Certificates
+
+**Certificate in Foundations of Teaching**  
+May 5th, 2023  
+The Center for Innovation in Teaching & Learning, University of Illinois
+
+
 ## Courses Taught
 
 **Business Location Decisions (GGIS/BADM 205)**, Spring 2023  
