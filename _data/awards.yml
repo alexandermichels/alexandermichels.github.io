@@ -1,3 +1,7 @@
+- title: Teacher Ranked as Excellent By Their Students
+  time: June 2023
+  desc: Determined by course evaluations for GGIS 205 in Spring 2023
+  awarder: Center for Innovation in Teaching & Learning
 - title: Student of the Year
   time: February 2023
   desc: Voted CyberGIS Center Student of the Year for 2022
@@ -18,19 +22,19 @@
   time: July 2019
   desc: Advancing Reproducibility in Geospatial Research at the AAG-UCGIS Summer School 2019
   awarder: American Association of Geographers (AAG), University Consortium for Geographic Information Science (UCGIS)
-- title: Best Robot in Division Prize for Senior Unique Division
-  time: April 2018
-  desc: Robot in the Division with the lowest Total Final Scores
-  awarder: Trinity Fire Fighting Robot Contest
-- title: North America Award for Level 2
-  time: April 2018
-  desc: The top North American robot in Level 2 
-  awarder: Trinity Fire Fighting Robot Contest
-- title: Dr. Thomas R. Nealeigh Mathematics Scholarship
-  time: March 2018
-  desc: Awarded to an outstanding junior or senior mathematics major
-  awarder: Westminster College
-- title: COMAP International Mathematical Modeling Competition Honorable Mention
-  time: January 2017
-  desc: Excellent Modeling and Sensitivity Analysis
-  awarder: COMAP International Mathematical Modeling Competition
+# - title: Best Robot in Division Prize for Senior Unique Division
+#   time: April 2018
+#   desc: Robot in the Division with the lowest Total Final Scores
+#   awarder: Trinity Fire Fighting Robot Contest
+# - title: North America Award for Level 2
+#   time: April 2018
+#   desc: The top North American robot in Level 2 
+#   awarder: Trinity Fire Fighting Robot Contest
+# - title: Dr. Thomas R. Nealeigh Mathematics Scholarship
+#   time: March 2018
+#   desc: Awarded to an outstanding junior or senior mathematics major
+#   awarder: Westminster College
+# - title: COMAP International Mathematical Modeling Competition Honorable Mention
+#   time: January 2017
+#   desc: Excellent Modeling and Sensitivity Analysis
+#   awarder: COMAP International Mathematical Modeling Competition
