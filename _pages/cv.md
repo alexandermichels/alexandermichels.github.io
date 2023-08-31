@@ -151,6 +151,7 @@ August 2015 - December 2018
   {% for pres in type.presentations %}
     <li><b>{{pres.title}}</b><br>
     <p style="text-align:left;">
+        {{pres.presenters}}<br>
         {{pres.event}}
         <span style="float:right;">
             {{pres.time}}
@@ -192,6 +193,9 @@ Special Interest Groups:
 ## [Professional Service](#prof-service)
 
 ### Conference and Workshops
+
+**Reviewer**  
+[Institute for Geospatial Understanding through an Integrative Discovery Environment (I-GUIDE) Forum](https://iguide.illinois.edu/forum-2023/)
 
 **Symposium Program Co-Chair**  
 [AAG 2023 Symposium on Harnessing the Geospatial Data Revolution for Sustainability Solutions](https://iguide.illinois.edu/aag-2023-symposium-on-harnessing-the-geospatial-data-revolution-for-sustainability-solutions/)  
