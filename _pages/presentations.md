@@ -2,7 +2,7 @@
 layout: page
 permalink: /presentations/
 title: Presentations
-description: Presentations and posters from past conferences.
+description: Presentations and posters from past conferences. Asterisk (*) indicates I was the presenter.
 nav: false
 ---
 
@@ -23,6 +23,7 @@ nav: false
   {% for pres in type.presentations %}
     <li><b>{{pres.title}}</b><br>
     <p style="text-align:left;">
+        {{pres.presenters}}<br>
         {{pres.event}}
         <span style="float:right;">
             {{pres.time}}
