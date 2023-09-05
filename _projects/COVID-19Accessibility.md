@@ -4,7 +4,7 @@ title: Spatial Accessibility for COVID-19
 description: Measuring spatial accessibility to healthcare resources for the COVID-19 pandemic
 img: /assets/img/WhereCOVID-19Acc.png
 importance: 100
-category: Spatial Analysis
+category: example
 github: https://github.com/cybergis/COVID-19AccessibilityNotebook
 ---
 
