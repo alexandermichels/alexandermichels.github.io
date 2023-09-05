@@ -1,3 +1,7 @@
+"Albarracin":
+  - firstname: ["Dolores", "D.", "D"]
+    url: "https://scholar.google.com/citations?user=OZE5-nQAAAAJ"
+
 "Aldstadt":
   - firstname: ["Jared", "J", "J."]
     url: https://scholar.google.com/citations?user=LNnWJaEAAAAJ
@@ -5,6 +9,10 @@
 "Baig":
   - firstname: ["Furqan", "F", "F."]
     url: "https://scholar.google.com/citations?user=BJ_mTDkAAAAJ"
+
+"Chan":
+  - firstname: ["Man-pui", "Man-pui Sally", "Sally", "M.-P."]
+    url: "https://scholar.google.com/citations?user=PxZjei0AAAAJ"
 
 "Crooks":
   - firstname: ["Andrew", "A", "A."]
@@ -19,12 +27,18 @@
     url: https://scholar.google.com/citations?user=u5cevWAAAAAJ
 
 "Li":
+  - firstname: ["Bo", "B", "B."]
+    url: "https://scholar.google.com/citations?user=Ou2lsj4AAAAJ"
   - firstname: ["Zhiyu", "Z", "Z.", "Drew"]
     url: "https://scholar.google.com/citations?user=yskFOAgAAAAJ"
 
 "Lyu":
   - firstname: ["Fangzheng", "F", "F."]
     url: "https://scholar.google.com/citations?user=FNN4IasAAAAJ"
+
+"Nassar":
+  - firstname: ["Ayman", "A.", "A", "Ayman M. M."]
+    url: "https://scholar.google.com/citations?user=6flaS3YAAAAJ"
 
 "Padmanabhan":
   - firstname: ["Anand", "A", "A."]
