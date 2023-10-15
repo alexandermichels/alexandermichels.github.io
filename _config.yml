@@ -181,7 +181,7 @@ scholar:
     "jour": Journal Articles,
     "bookchap": "Book Chapters",
     "confpaper": "Peer-Reviewed Conference Papers",
-    "extabs": "Peer-Reviewed Published Abstracts"
+    "extabs": "Published Abstracts"
   }
 
   query: "@*"

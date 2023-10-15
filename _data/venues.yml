@@ -10,6 +10,12 @@
   type: "journal"
   desc: "Applied Geography is a journal devoted to the publication of research which utilizes geographic approaches (human, physical, nature-society and GIScience) to resolve human problems that have a spatial dimension."
 
+"C&C:P&E":
+  name: "Concurrency and Computation: Practice and Experience"
+  url: "https://onlinelibrary.wiley.com/journal/15320634"
+  type: "journal"
+  desc: "Concurrency and Computation: Practice and Experience is a computer science journal publishing original research and review papers on parallel and distributed computing systems. With a broad scope, the journal covers high-performance computing, data science, artificial intelligence and machine learning, big data, security, quantum and cloud computing, and more."
+
 "IJHG":
   name: "International Journal of Health Geographics (IJHG)"
   url: "https://ij-healthgeographics.biomedcentral.com"
