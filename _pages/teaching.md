@@ -6,7 +6,7 @@ description: Courses I have taught and related materials.
 nav: true
 ---
 
-## Courses Taught
+## Courses Taught as Instructor of Record
 
 **Business Location Decisions (GGIS/BADM 205)**, Spring 2023  
 Department of Geography and Geographic Information Science, UIUC  
@@ -18,11 +18,12 @@ Department of Geography and Geographic Information Science, UIUC
 
 **Certificate in Foundations of Teaching**  
 May 5th, 2023  
-The Center for Innovation in Teaching & Learning, University of Illinois
+The Center for Innovation in Teaching & Learning  
+University of Illinois
 
 **Teacher Ranked As Excellent By Their Students**  
-June 2023
-Center for Innovation in Teaching & Learning,  
+June 2023  
+Center for Innovation in Teaching & Learning  
 University of Illinois
 
 

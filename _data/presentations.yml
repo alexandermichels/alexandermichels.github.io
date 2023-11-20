@@ -1,6 +1,16 @@
 - type: "Conference Presentations"
   link: "conference"
   presentations:
+    - title: "Streamlined HPC Environments with CVMFS and CyberGIS-Compute"
+      event: I-GUIDE Forum 2023
+      time: October 2023
+      place: New York City, NY
+      presenters: "Alexander Michels*, Mit Kotak, Anand Padmanabhan, and Shaowen Wang"
+    - title: "An Agent-Based Modeling Approach to Spatial Accessibility"
+      event: I-GUIDE Forum 2023
+      time: October 2023
+      place: New York City, NY
+      presenters: "Alexander Michels* and Shaowen Wang"
     - title: "Impacts of Catchments Derived from Fine-Grained Mobility Data on Spatial Accessibility"
       event: International Conference on Geographic Information Science (GIScience)
       time: September 2023
