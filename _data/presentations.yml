@@ -131,6 +131,11 @@
 - type: "Tutorials & Workshops"
   link: "workshop"
   presentations:
+    - title: "Geospatial Knowledge Discovery Harnessing Pre-trained Language Models on CyberGISX"
+      event: NSF HDR Ecosystem Conference
+      time: October 2023
+      place: Denver, CO
+      presenters: "Zhaonan Wang, Wei Hu, Alexander Michels and Anand Padmanabhan"
     - title: "CyberGIS-Compute: Geospatial Middleware for High-Performance Computing"
       event: I-GUIDE Forum 2023
       time: October 2023
@@ -149,6 +154,12 @@
 - type: "Poster Sessions"
   link: "poster"
   presentations:
+    - title: "CyberGIS-Compute: Middleware for Democratizing Scalable Geocomputation"
+      event: NSF HDR Ecosystem Conference
+      place: Denver, CO
+      time: October 2023
+      presenters: "Alexander Michels*, Anand Padmanabhan, Zimo Xiao, Mit Kotak, Furqan Baig, and Shaowen Wang"
+      poster: /assets/pdf/HDR2023-Compute.pdf
     - title: "ScalableAccess: Computing Travel-Time Polygons of Fine Spatial Granularity for Accessibility Analysis at Scale"
       event: UIUC GIS Day
       place: Champaign, IL
