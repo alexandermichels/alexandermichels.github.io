@@ -22,6 +22,12 @@
   type: "journal"
   desc: "International Journal of Health Geographics covers a wide range of interdisciplinary geospatial topics in a health/healthcare context, from spatial data infrastructure and Web geospatial interoperability research, to research into real-time Geographic Information Systems (GIS)-enabled surveillance services, remote sensing applications, spatial epidemiology, spatio-temporal statistics, internet GIS and cyberspace mapping, participatory GIS and citizen sensing, geospatial big data, healthy smart cities and regions, and geospatial Internet of Things and blockchain."
 
+"IJGIS":
+  name: "International Journal of Geographical Information Science"
+  url: "https://www.tandfonline.com/journals/tgis20"
+  type: "journal"
+  desc: "International Journal of Geographical Information Science publishes international research in the rapidly growing field of geographical information science (GIScience)."
+
 "JASSS":
   name: "Journal of Artificial Societies and Social Simulation (JASSS)"
   url: "https://www.jasss.org/JASSS.html"
@@ -33,7 +39,6 @@
   url: "https://journals.plos.org/plosone/"
   type: "journal"
   desc: "PLOS ONE welcomes original research submissions from the natural sciences, medical research, engineering, as well as the related social sciences and humanities."
-
 
 "TGIS":
   name: "Transactions in GIS (TGIS)"

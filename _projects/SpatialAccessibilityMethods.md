@@ -4,7 +4,7 @@ title: Algorithms and Methods for Spatial Accessibility
 description: Developing novel algorithms and methods for accurate and scalable spatial accessibility analyses.
 img: /assets/gif/ConvexHullVsAlphaShape.gif
 importance: 1
-category: Spatial Analysis
+category: Spatial Accessibility
 # github: https://github.com/cybergis/COVID-19AccessibilityNotebook
 ---
 

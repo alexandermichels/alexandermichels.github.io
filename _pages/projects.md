@@ -4,10 +4,8 @@ title: Projects
 permalink: /projects/
 description: A few of the projects I've been involved with
 nav: false
-display_categories: [Spatial Analysis, Cyberinfrastructure, Agent-Based Modeling]
+display_categories: [Spatial Accessibility, Cyberinfrastructure, Agent-Based Modeling]
 ---
-
-In addition to the below research projects and [software work](/code).
 
 <div class="projects">
   {% if site.enable_project_categories and page.display_categories %}

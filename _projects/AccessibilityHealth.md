@@ -4,7 +4,7 @@ title: Spatial Accessibility for Public Health
 description: Measuring spatial accessibility to healthcare resources
 img: /assets/img/PLOSONE2022-HIVAccessibility.PNG
 importance: 3
-category: Spatial Analysis
+category: Spatial Accessibility
 # github: https://github.com/cybergis/COVID-19AccessibilityNotebook
 ---
 
