@@ -14,7 +14,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Alex Michels is a PhD student studying Spatial Informatics under Dr. Shaowen Wang at the University of Illinois Urbana-Champaign (UIUC). 
+Alex Michels is a PhD candidate studying Spatial Informatics under Dr. Shaowen Wang at the University of Illinois Urbana-Champaign (UIUC). 
 He is currently a research assistant at the [CyberGIS Center for Advanced Digital and Spatial Studies](http://cybergis.illinois.edu/) and will be on the job market in Fall 2024.
 
 Alex is passionate about access & cyberGIS meaning: (1) using cyberGIS to explore, model, and analyze spatial patterns and systems of inaccessibility and inequity and (2) making cyberGIS tools and technology accessible to all.
