@@ -17,6 +17,9 @@
     - platform: github
       user: "cybergis"
       repo: "PSONotebook"
+    - platform: github
+      user: "cybergis"
+      repo: "SPASTCNotebook"
     # - platform: github
     #   user: himahuja
     #   repo: pcatxcore

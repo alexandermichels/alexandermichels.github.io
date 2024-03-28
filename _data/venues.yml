@@ -40,6 +40,12 @@
   type: "journal"
   desc: "PLOS ONE welcomes original research submissions from the natural sciences, medical research, engineering, as well as the related social sciences and humanities."
 
+"SoftwareX":
+  name: "SoftwareX"
+  url: "https://www.sciencedirect.com/journal/softwarex"
+  type: "journal"
+  desc: "SoftwareX aims to acknowledge the impact of software on today's research practice, and on new scientific discoveries in almost all research domains."
+
 "TGIS":
   name: "Transactions in GIS (TGIS)"
   url: "https://onlinelibrary.wiley.com/journal/14679671"

@@ -6,10 +6,13 @@ years: [2022, 2021, 2020, 2019]
 nav: false
 ---
 
+
 For an up-to-date list and metrics see <a href="https://scholar.google.com/citations?user={{ site.scholar_userid }}" target="_blank" title="Google Scholar">Google Scholar  <i class="ai ai-google-scholar"></i></a>. 
 
-<details style="margin-bottom:0.5cm;">
+
+<details style="margin-bottom:0.5cm; padding:3px; border:1px solid fuchsia">
 <summary>Click here for a quick summary of the journals/conferences where I have published.</summary>
+
 
 <div class="row">
 <div class="col-sm-6">
