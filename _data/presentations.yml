@@ -1,6 +1,11 @@
 - type: "Conference Presentations"
   link: "conference"
   presentations:
+    - title: "Putting the Area in Catchment Areas: An Areal Approach to Spatial Accessibility Analysis"
+      event: "American Association of Geographers (AAG) Annual Meeting"
+      time: April 2024
+      place: Honolulu, HI
+      presenters: "Alexander Michels*, Jinwoo Park, Jeon-Young Kang, and Shaowen Wang"
     - title: "Streamlined HPC Environments with CVMFS and CyberGIS-Compute"
       event: I-GUIDE Forum 2023
       time: October 2023
