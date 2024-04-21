@@ -5,9 +5,9 @@ title: CV
 nav: true
 ---
 
-CV: <a href="https://github.com/alexandermichels/CV/blob/master/CurriculumVitae.pdf" target="_blank">On Github</a>
+CV: <a href="https://raw.githubusercontent.com/alexandermichels/CV/master/CurriculumVitae.pdf" target="_blank">PDF</a>, <a href="https://github.com/alexandermichels/CV/blob/master/CurriculumVitae.pdf" target="_blank">View On Github</a>
 
-Resume: <a href="https://github.com/alexandermichels/CV/blob/master/Resume.pdf" target="_blank">On Github</a>
+Resume: <a href="https://raw.githubusercontent.com/alexandermichels/CV/master/Resume.pdf" target="_blank">PDF</a>, <a href="https://github.com/alexandermichels/CV/blob/master/Resume.pdf" target="_blank">View On Github</a>
 
 
 ## Table of Contents
