@@ -20,3 +20,8 @@ He is currently a research assistant at the [CyberGIS Center for Advanced Digita
 Alex is passionate about access & cyberGIS meaning: (1) using cyberGIS to explore, model, and analyze spatial patterns and systems of inaccessibility and inequity and (2) making cyberGIS tools and technology accessible to all.
 His work in analysis and modeling includes Spatial Agent-Based Models (SABMs) for public health and work advancing the methods of spatial accessibiliy with applications including the [WhereCOVID-19 Spatial Accessibility Explorer](https://wherecovid19.cigi.illinois.edu/spatialAccess.html) for rapidly measuring spatial accessibility during the COVID-19 pandemic.
 His work on [FAIR (Findable, Accessible, Interoperable, and Reproducible)](https://www.go-fair.org/fair-principles/) computing in the geosciences includes contributions to [CyberGISX](https://cybergisxhub.cigi.illinois.edu/), [CyberGIS-Jupyter for Water (CJW)](https://go.illinois.edu/cybergis-jupyter-water/), and [CyberGIS-Compute](https://cybergis.github.io/cybergis-compute-python-sdk).
+
+If you're interested in my work or collaborating, please feel free to reach out! If you want to chat over coffee, I'm planning to attend the following in-person:
+
+* June 14-15th, Chicago, IL, USA. [The SDOH & Place Symposium](https://sdohplace.org/news/symposium2024)
+* Oct 14-16th, Jackson, WY, USA. [I-GUIDE Forum 2024](https://i-guide.io/forum/forum-2024/)
