@@ -91,11 +91,6 @@ June 2018 - August 2018
 Department of Geography and Geographic Information Science  
 *Analyzes location decision-making emphasizing industrial and commercial location patterns; identifies important institutional factors and their changing roles over the recent past; and focuses on plant closings, economic disruptions, and problems of structural change.*  
 
-**Teaching Assistant and Tutor**  
-Westminster College  
-August 2015 - December 2018  
-* Assisted professors in grading, working with students individually, and developing curriculum for classes covering coursework in Calculus, Computer Science, and Operations Research.
-
 
 <hr id="awards" />
 
@@ -215,24 +210,16 @@ Special Interest Groups:
 ### Journal Reviewer
 
 * Geocarto International, Taylor & Francis
+* International Journal of Geographical Information Science (IJGIS), Taylor & Francis
 
 
 ### Professional Organizations
 
 **Director**  
 AAG CyberInfrastructure Specialty Group (CISG)  
-February 2022 - Present  
+February 2022 - April 2026  
 
 **Student Director**  
 AAG CyberInfrastructure Specialty Group (CISG)  
-April 2021 - February 2022 
-
-
-
-### Departmental Service
-
-**Program Ambassador**  
-UIUC Informatics Program  
-Hosted Q&A sessions for prospective and incoming Informatics students  
-2022-Present  
+April 2021 - February 2022  
 

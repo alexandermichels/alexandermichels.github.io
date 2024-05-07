@@ -45,7 +45,13 @@
       repo: "AAG2023-ComputeTutorial"
     - platform: github
       user: "cybergis"
+      repo: "ACES2023-CyberGIS-Compute"
+    - platform: github
+      user: "cybergis"
       repo: "cybergis-compute-examples"
+    - platform: github
+      user: "cybergis"
+      repo: "I-GUIDE-Forum-2023-CyberGIS-Compute-Workshop"
     - platform: github
       user: "cybergis"
       repo: "github-pages-demo"
