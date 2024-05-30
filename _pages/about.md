@@ -21,7 +21,11 @@ Alex is passionate about access & cyberGIS meaning: (1) using cyberGIS to explor
 His work in analysis and modeling includes Spatial Agent-Based Models (SABMs) for public health and work advancing the methods of spatial accessibiliy with applications including the [WhereCOVID-19 Spatial Accessibility Explorer](https://wherecovid19.cigi.illinois.edu/spatialAccess.html) for rapidly measuring spatial accessibility during the COVID-19 pandemic.
 His work on [FAIR (Findable, Accessible, Interoperable, and Reproducible)](https://www.go-fair.org/fair-principles/) computing in the geosciences includes contributions to [CyberGISX](https://cybergisxhub.cigi.illinois.edu/), [CyberGIS-Jupyter for Water (CJW)](https://go.illinois.edu/cybergis-jupyter-water/), and [CyberGIS-Compute](https://cybergis.github.io/cybergis-compute-python-sdk).
 
-If you're interested in my work or collaborating, please feel free to reach out! If you want to chat over coffee, I'm planning to attend the following in-person:
+If you're interested in my work or collaborating, please feel free to reach out! If you want to chat over coffee, we can meet on campus at UIUC or I'm planning to attend these upcoming events in-person:
 
-* June 14-15th, Chicago, IL, USA. [The SDOH & Place Symposium](https://sdohplace.org/news/symposium2024)
-* Oct 14-16th, Jackson, WY, USA. [I-GUIDE Forum 2024](https://i-guide.io/forum/forum-2024/)
+* June 14-15th, 2024. Chicago, IL, USA. [The SDOH & Place Symposium](https://sdohplace.org/news/symposium2024)
+* July 21-25th, 2024. Providence RI, USA. [PEARC24](https://pearc.acm.org/pearc24/)
+* Aug 5-9th, 2024. Boulder, CO, USA. [I-GUIDE Summer School 2024](https://i-guide.io/summer-school/summer-school-2024/)
+* Oct 14-16th, 2024. Jackson, WY, USA. [I-GUIDE Forum 2024](https://i-guide.io/forum/forum-2024/)
+
+Hope to see you there!
