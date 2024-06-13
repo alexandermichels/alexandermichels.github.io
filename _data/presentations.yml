@@ -1,6 +1,11 @@
 - type: "Conference Presentations"
   link: "conference"
   presentations:
+    - title: "Spatial Accessibility with Machine-Learned Travel-Times"
+      event: "SDOH & Place Symposium"
+      time: June 2024
+      place: Chicago, IL
+      presenters: "Alexander Michels*"
     - title: "Putting the Area in Catchment Areas: An Areal Approach to Spatial Accessibility Analysis"
       event: "American Association of Geographers (AAG) Annual Meeting"
       time: April 2024
