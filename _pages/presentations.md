@@ -2,7 +2,7 @@
 layout: page
 permalink: /presentations/
 title: Presentations
-description: Presentations and posters from past conferences. Asterisk (*) indicates I was the presenter.
+description: Presentations and posters from past conferences. Asterisk (*) indicates the presenter.
 nav: false
 ---
 

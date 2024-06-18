@@ -1,10 +1,11 @@
 - type: "Conference Presentations"
   link: "conference"
   presentations:
-    - title: "Spatial Accessibility with Machine-Learned Travel-Times"
+    - title: "Spatial Accessibility with Machine-Learned Driving Times"
       event: "SDOH & Place Symposium"
       time: June 2024
       place: Chicago, IL
+      video: https://www.youtube.com/live/CEWv3J_F5n4?si=49ariharpSox4xYT&t=6567
       presenters: "Alexander Michels*"
     - title: "Putting the Area in Catchment Areas: An Areal Approach to Spatial Accessibility Analysis"
       event: "American Association of Geographers (AAG) Annual Meeting"

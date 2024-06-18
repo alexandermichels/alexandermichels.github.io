@@ -23,7 +23,6 @@ His work on [FAIR (Findable, Accessible, Interoperable, and Reproducible)](https
 
 If you're interested in my work or collaborating, please feel free to reach out! If you want to chat over coffee, we can meet on campus at UIUC or I'm planning to attend these upcoming events in-person:
 
-* June 14-15th, 2024. Chicago, IL, USA. [The SDOH & Place Symposium](https://sdohplace.org/news/symposium2024)
 * July 20-25th, 2024. Providence RI, USA. [PEARC24](https://pearc.acm.org/pearc24/)
 * Aug 5-9th, 2024. Boulder, CO, USA. [I-GUIDE Summer School 2024](https://i-guide.io/summer-school/summer-school-2024/)
 * Oct 14-16th, 2024. Jackson, WY, USA. [I-GUIDE Forum 2024](https://i-guide.io/forum/forum-2024/)
