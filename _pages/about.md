@@ -27,4 +27,4 @@ If you're interested in my work or collaborating, please feel free to reach out!
 * Aug 5-9th, 2024. Boulder, CO, USA. [I-GUIDE Summer School 2024](https://i-guide.io/summer-school/summer-school-2024/)
 * Oct 14-16th, 2024. Jackson, WY, USA. [I-GUIDE Forum 2024](https://i-guide.io/forum/forum-2024/)
 
-Hope to see you there!
+[QR code to share this website](/assets/img/alexandermichels.github.io.png)
