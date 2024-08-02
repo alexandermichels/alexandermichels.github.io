@@ -1,6 +1,11 @@
 - type: "Conference Presentations"
   link: "conference"
   presentations:
+    - title: "Providing Accessible Software Environments Across Science Gateways and HPC"
+      event: "Practice and Experience in Advanced Research Computing (PEARC)"
+      time: July 2024
+      place: Providence, RI
+      presenters: "Alexander Michels*"
     - title: "Spatial Accessibility with Machine-Learned Driving Times"
       event: "SDOH & Place Symposium"
       time: June 2024
@@ -119,6 +124,11 @@
 - type: "Invited Talks"
   link: "invited"
   presentations:
+    - title: "CyberGIS-Compute: Geospatial Middleware for Simplifying Access to High-Performance Computing"
+      event: ACES Workshop 2023
+      time: July 2023
+      place: League City, TX
+      presenters: "Alexander Michels and Furqan Baig"
     - title: "CyberGIS-Compute: Enabling Simplified Access to High Performance Computing for your Geospatial Computation."
       event: "NSF Institute for Geospatial Understanding through an Integrative Discovery Environment (I-GUIDE) - Virtual Consulting Office"
       place: Virtual
@@ -152,11 +162,6 @@
       time: October 2023
       place: New York City, NY
       presenters: "Alexander Michels and Anand Padmanabhan"
-    - title: "CyberGIS-Compute: Geospatial Middleware for Simplifying Access to High-Performance Computing"
-      event: ACES Workshop 2023
-      time: July 2023
-      place: League City, TX
-      presenters: "Alexander Michels and Furqan Baig"
     - title: "CyberGIS-Compute: Geospatial Middleware for High-Performance Computing"
       event: AAG 2023
       time: March 2023

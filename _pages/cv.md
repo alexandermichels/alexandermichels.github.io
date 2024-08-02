@@ -48,14 +48,14 @@ University of Illinois at Urbana-Champaign
 June 2019 - Present  
 Advised by Dr. Shaowen Wang
 
-**M.S. in Geography & GIS (in progress)**  
+**M.S. in Geography**  
 University of Illinois at Urbana-Champaign  
-August 2020 - Present  
+May 2024  
 Advised by Dr. Shaowen Wang
 
 **B.S. in Mathematics and Financial Economics**   
 Westminster College  
-August 2015 - May 2019  
+May 2019  
 Minor in Computer Science, Cum Laude with Honors in Mathematics and CS  
 Honors Thesis: "Capturing the Predictive Power of Cortical Learning Algorithms"
 
@@ -66,9 +66,11 @@ Honors Thesis: "Capturing the Predictive Power of Cortical Learning Algorithms"
 **CyberGIS Center for Advanced Digital and Spatial Studies**  
 [CyberGIS Center](https://cybergis.illinois.edu/) and [CyberInfrastructure and Geospatial Information Laboratory](https://cigi.illinois.edu/)  
 June 2019 - Present  
-* Worked under Dr. Shaowen Wang and Dr. Anand Padmanabhan on the "Spatial Modeling" and "Algorithms & Systems" teams.
-* Under the "Algorithms & Systems" team I primarily work to design, build, and administer cyberinfrastructure. Projects include [CyberGISX](https://cybergisxhub.cigi.illinois.edu/), [CyberGIS-Jupyter for Water](https://go.illinois.edu/cybergis-jupyter-water/), [CyberGIS-Compute](https://cybergis.github.io/cybergis-compute-python-sdk) and a Hadoop cluster for educational and research applications. Technologies include Docker, Docker Swarm, Kubernetes, OpenStack, Terraform, and Ansible. I also supervised and mentored four undergraduate students who joined the Algorithms & Systems team.
-* Under the "Spatial Modeling" team, I wrote and published multiple spatial models for educational and research purposes. Projects include [WhereCOVID-19 App's Spatial Accessibility Explorer](https://wherecovid19.cigi.illinois.edu/) and Spatial Agent-Based Models (SABMs).
+* Lead developer on [CyberGIS-Compute](https://github.com/cybergis/cybergis-compute-python-sdk) (75 users; Typescript, Python, SLURM, Globus) and [CyberGIS-Jupyter](https://cybergisx.cigi.illinois.edu/) (1368 users; Docker, Docker Swarm, Linux, Bash, Ansible, Kubernetes).
+* Managed 6 student research programmers; interviewed and hired students and full-time staff.
+* Led workshops with 50+ participants and organized conference symposiums/sessions.
+* Analyzed spatial Big Data using Bash, HPC, Python, Machine Learning (ML), and SQL.
+* Published 16 articles and presented at 20+ conferences, garnering 200+ citations.
 
 **SESYNC Graduate Research Fellow**  
 National Socio-Environmental Synthesis Center (SESYNC)  
@@ -181,6 +183,10 @@ Special Interest Groups:
 * SIGSPATIAL (Spatial Information)
 
 **Cartography and Geographic Information Society (CaGIS)**  
+
+**Campus Research Computing Consortium (CaRCC)**  
+
+**United States Research Software Engineer Association (US-RSE)**  
 
 <hr id="prof-service" />
 
