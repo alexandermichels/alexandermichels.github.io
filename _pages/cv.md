@@ -141,6 +141,8 @@ Department of Geography and Geographic Information Science
 
 <!--See [presentations page](/presentations/)-->
 
+Asterisk (*) indicates the presenter(s).
+
 {% for type in site.data.presentations %}
   <a id="{{type.link}}"></a>
   <h3><a href="#{{type.link}}">{{type.type}}</a></h3>

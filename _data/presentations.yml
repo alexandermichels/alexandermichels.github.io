@@ -124,6 +124,11 @@
 - type: "Invited Talks"
   link: "invited"
   presentations:
+    - title: "I-GUIDE Platform"
+      event: "I-GUIDE Summer School 2024: Leveraging AI for Environmental Sustainability"
+      time: August 2024
+      place: Boulder, CO
+      presenters: "Anand Padmanabhan* and Alexander Michels*"
     - title: "CyberGIS-Compute: Geospatial Middleware for Simplifying Access to High-Performance Computing"
       event: ACES Workshop 2023
       time: July 2023
@@ -152,6 +157,11 @@
 - type: "Tutorials & Workshops"
   link: "workshop"
   presentations:
+    - title: "Introduction to Git"
+      event: "I-GUIDE Summer School 2024: Leveraging AI for Environmental Sustainability"
+      time: August 2024
+      place: Boulder, CO
+      presenters: "Alexander Michels"
     - title: "Geospatial Knowledge Discovery Harnessing Pre-trained Language Models on CyberGISX"
       event: NSF HDR Ecosystem Conference
       time: October 2023
