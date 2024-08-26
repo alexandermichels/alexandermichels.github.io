@@ -121,31 +121,9 @@
     #   event: Pi Mu Epsilon Regional Conference
     #   place: Youngstown, OH 
     #   time: February 2017
-- type: "Invited Talks"
-  link: "invited"
-  presentations:
-    - title: "I-GUIDE Platform"
-      event: "I-GUIDE Summer School 2024: Leveraging AI for Environmental Sustainability"
-      time: August 2024
-      place: Boulder, CO
-      presenters: "Anand Padmanabhan* and Alexander Michels*"
-    - title: "CyberGIS-Compute: Geospatial Middleware for Simplifying Access to High-Performance Computing"
-      event: ACES Workshop 2023
-      time: July 2023
-      place: League City, TX
-      presenters: "Alexander Michels and Furqan Baig"
-    - title: "CyberGIS-Compute: Enabling Simplified Access to High Performance Computing for your Geospatial Computation."
-      event: "NSF Institute for Geospatial Understanding through an Integrative Discovery Environment (I-GUIDE) - Virtual Consulting Office"
-      place: Virtual
-      time: Nov 2, 2022
-      presenters: "Anand Padmanabhan* and Alexander Michels*"
-      video: https://iguide.illinois.edu/i-guide-vco/i-guide-vco-cybergis-compute-part-2/
-    - title: "CyberGIS-Compute: Geospatial Middleware for Simplifying Access to High-Performance Computing."
-      event: "NSF Institute for Geospatial Understanding through an Integrative Discovery Environment (I-GUIDE) - Virtual Consulting Office"
-      place: Virtual
-      time: July 27, 2022
-      presenters: "Anand Padmanabhan* and Alexander Michels*"
-      video: https://iguide.illinois.edu/i-guide-vco/virtual-consulting-office-cybergis-compute/
+# - type: "Invited Talks"
+#   link: "invited"
+#   presentations:
     # - title: Information Extraction and Aggregation for Business Profiling
     #   event: Institute for Pure and Applied Mathematics (IPAM)
     #   place: Los Angeles, CA  
@@ -162,6 +140,11 @@
       time: August 2024
       place: Boulder, CO
       presenters: "Alexander Michels"
+    - title: "I-GUIDE Platform"
+      event: "I-GUIDE Summer School 2024: Leveraging AI for Environmental Sustainability"
+      time: August 2024
+      place: Boulder, CO
+      presenters: "Anand Padmanabhan* and Alexander Michels*"
     - title: "Geospatial Knowledge Discovery Harnessing Pre-trained Language Models on CyberGISX"
       event: NSF HDR Ecosystem Conference
       time: October 2023
@@ -172,11 +155,28 @@
       time: October 2023
       place: New York City, NY
       presenters: "Alexander Michels and Anand Padmanabhan"
+    - title: "CyberGIS-Compute: Geospatial Middleware for Simplifying Access to High-Performance Computing"
+      event: ACES Workshop 2023
+      time: July 2023
+      place: League City, TX
+      presenters: "Alexander Michels and Furqan Baig"
     - title: "CyberGIS-Compute: Geospatial Middleware for High-Performance Computing"
       event: AAG 2023
       time: March 2023
       place: Denver, CO
       presenters: "Alexander Michels"
+    - title: "CyberGIS-Compute: Enabling Simplified Access to High Performance Computing for your Geospatial Computation."
+      event: "NSF Institute for Geospatial Understanding through an Integrative Discovery Environment (I-GUIDE) - Virtual Consulting Office"
+      place: Virtual
+      time: Nov 2, 2022
+      presenters: "Anand Padmanabhan* and Alexander Michels*"
+      video: https://iguide.illinois.edu/i-guide-vco/i-guide-vco-cybergis-compute-part-2/
+    - title: "CyberGIS-Compute: Geospatial Middleware for Simplifying Access to High-Performance Computing."
+      event: "NSF Institute for Geospatial Understanding through an Integrative Discovery Environment (I-GUIDE) - Virtual Consulting Office"
+      place: Virtual
+      time: July 27, 2022
+      presenters: "Anand Padmanabhan* and Alexander Michels*"
+      video: https://iguide.illinois.edu/i-guide-vco/virtual-consulting-office-cybergis-compute/
 - type: "Poster Sessions"
   link: "poster"
   presentations:
