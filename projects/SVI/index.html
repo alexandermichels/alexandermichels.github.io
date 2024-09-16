@@ -6,7 +6,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 
-<title>Alex  Michels | blank</title>
+<title>Alex  Michels | SVI and CBSA Mapping</title>
 <meta name="description" content="Personal website of Alexander Michels, PhD student at UIUC.
 ">
 
@@ -29,7 +29,7 @@
 <link rel="icon" href="/assets/img/Networks.ico">
 <link rel="stylesheet" href="/assets/css/main.css">
 
-<link rel="canonical" href="/blog/">
+<link rel="canonical" href="/projects/SVI/">
 
 <!-- JQuery -->
 <!-- jQuery -->
@@ -104,8 +104,6 @@
           </li>
           
           <!-- Other pages -->
-          
-          
           
           
           
@@ -201,36 +199,114 @@
     <div class="container mt-5">
       <div class="post">
 
-  <div class="header-bar">
-    <!---<h1></h1>--->
-    <h2>Thoughts and updates from a geospatial data scientist</h2>
-  </div>
+  <header class="post-header">
+    <h1 class="post-title">SVI and CBSA Mapping</h1>
+    <p class="post-description">Mapping Social Vulnerability</p>
+  </header>
 
+  <article>
+    <h2 id="toc">TOC:</h2>
 
-  <ul class="post-list">
-    
-      <li>
-        <h3><a class="post-title" href="/blog/2021/Gateways2021/">Gateways 2021</a></h3>
-        <p class="post-meta">October 21, 2021</p>
-        <p>Information on our work presented at Gateways 2021</p>
-      </li>
-    
-      <li>
-        <h3><a class="post-title" href="/blog/2020/GeoSim2020/">An Exploration of the Effect of Buyer Preference and Market Composition on the Rent Gradient using the ALMA Framework</a></h3>
-        <p class="post-meta">November 3, 2020</p>
-        <p>Information on my short-paper presented at GeoSim 2020</p>
-      </li>
-    
-      <li>
-        <h3><a class="post-title" href="/blog/2020/COVID-19Accessibility/">Rapidly Measuring Spatial Accessibility of COVID-19 Healthcare Resources: A Case Study of Illinois, USA</a></h3>
-        <p class="post-meta">May 10, 2020</p>
-        <p>Work calculating spatial accessibility to crucial resources during the COVID-19 pandemic.</p>
-      </li>
-    
-  </ul>
+<ul>
+  <li><a href="#svi-gpd">SVI Mapping with Geopandas</a></li>
+  <li><a href="#svi-folium">SVI Mapping with Folium</a></li>
+  <li><a href="#cbsa">Metro/Micro-politan Statistical Areas (MSA/μSA)</a></li>
+  <li><a href="#csa">Combined Statistical Area (CSA)</a></li>
+</ul>
 
-  
+<p><a id="svi-gpd"></a></p>
 
+<hr />
+
+<h3 id="svi-mapping-with-geopandas">SVI Mapping with Geopandas</h3>
+
+<p>This is a test to see how putting maps/a project online would look. For information on the CDC Social Vulnerability Index, see the documentation: <a href="https://www.atsdr.cdc.gov/placeandhealth/svi/documentation/SVI_documentation_2018.html">https://www.atsdr.cdc.gov/placeandhealth/svi/documentation/SVI_documentation_2018.html</a> As the documentation states about the SVI index: “Percentile ranking values range from 0 to 1, with higher values indicating greater vulnerability.”</p>
+
+<p>Below you can see a simple map of the CDC’s 2018 Social Vulnerability Index (SVI) by Census Tract created using GeoPandas (<a href="https://www.atsdr.cdc.gov/placeandhealth/svi/data_documentation_download.html">data available here</a>):</p>
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        <img class="img-fluid rounded z-depth-1" src="/assets/img/SVIbyCensusTract.png" alt="" title="SVI by Census Tract" />
+    </div>
+</div>
+<div class="caption">
+    Map of SVI by Census Tract
+</div>
+
+<p><a id="svi-folium"></a></p>
+
+<hr />
+
+<h3 id="svi-mapping-with-folium">SVI Mapping with Folium</h3>
+
+<p>I also created some fancier maps using <a href="https://python-visualization.github.io/folium/modules.html">Folium</a>:</p>
+
+<p>Color scheme 1:</p>
+
+<div class="row">
+    <iframe src="/assets/html/maps/SVI2018_US_COUNTY_YlGnBu.html" title="Map1" style="width:100%; height:400px;"></iframe>
+</div>
+<div class="caption">
+    Map of SVI by County using the `YlGnBu` color pallete.
+</div>
+
+<hr />
+
+<p>Color scheme 2:</p>
+
+<div class="row">
+    <iframe src="/assets/html/maps/SVI2018_US_COUNTY_PRGn.html" title="Map2" style="width:100%; height:400px;"></iframe>
+</div>
+<div class="caption">
+    Map of SVI by County using the `PRGn` color pallete.
+</div>
+
+<p>Learn more about <a href="https://colorbrewer2.org/">color schemes available for folium’s choropleth</a>.</p>
+
+<hr />
+
+<p>Maps can be large making them slow to load and memory intensive so simplifying the geometries can be helpful, but it’s a tradeoff between accuracy of the shapes and size of the map. The maps above are ~34MB on the disk while the map below only takes up approximatley 10MB.</p>
+
+<div class="row">
+    <iframe src="/assets/html/maps/SVI2018_US_COUNTY_YlGnBu_Tol01.html" title="Map2" style="width:100%; height:400px;"></iframe>
+</div>
+<div class="caption">
+    Map of SVI by County using a simplified geometry with tolerance 0.01 for WGS84.
+</div>
+
+<p>The map looks fine, but you can see issues around odd-shaped counties when you zoom in close (zoom into around the Missippi River for examples).</p>
+
+<p><a id="cbsa"></a></p>
+
+<hr />
+
+<h3 id="metromicro-politan-statistical-areas-msaμsa">Metro/Micro-politan Statistical Areas (MSA/μSA)</h3>
+
+<p><a id="csa"></a></p>
+
+<p>A useful geography is the <a href="https://en.wikipedia.org/wiki/Metropolitan_statistical_area">Metropolitan Statistical Area</a> and <a href="https://en.wikipedia.org/wiki/Micropolitan_statistical_area">Micropolitan Statistical Area</a> which are collectively referred to as “Core Based Statistical Areas (CBSAs)”. According to Wikipedia: “CBSAs are delineated on the basis of a central urban area or urban cluster – in other words: a contiguous area of relatively high population density.”</p>
+
+<div class="row">
+    <iframe src="/assets/html/maps/CBSA.html" title="Map2" style="width:100%; height:400px;"></iframe>
+</div>
+<div class="caption">
+    Map of Metro/Micro-politan Statistical Areas (MSA/&mu;SA)
+</div>
+
+<hr />
+
+<h3 id="combined-statistical-area-csa">Combined Statistical Area (CSA)</h3>
+
+<p>A useful geography is the <a href="https://en.wikipedia.org/wiki/Combined_statistical_area">Combined Statistical Area</a> which capture a city’s area including suburbs and ignoring state/adminstrative lines. According to Wikipedia “CSAs represent multiple metropolitan or micropolitan areas that have an employment interchange of at least 15%. CSAs often represent regions with overlapping labor and media markets.”:</p>
+
+<div class="row">
+    <iframe src="/assets/html/maps/CSA.html" title="Map2" style="width:100%; height:400px;"></iframe>
+</div>
+<div class="caption">
+    Map of Combined Statistical Areas
+</div>
+
+  </article>
 
 </div>
 

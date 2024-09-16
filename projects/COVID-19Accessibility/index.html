@@ -6,7 +6,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 
-<title>Alex  Michels | blank</title>
+<title>Alex  Michels | Spatial Accessibility for COVID-19</title>
 <meta name="description" content="Personal website of Alexander Michels, PhD student at UIUC.
 ">
 
@@ -29,7 +29,7 @@
 <link rel="icon" href="/assets/img/Networks.ico">
 <link rel="stylesheet" href="/assets/css/main.css">
 
-<link rel="canonical" href="/blog/">
+<link rel="canonical" href="/projects/COVID-19Accessibility/">
 
 <!-- JQuery -->
 <!-- jQuery -->
@@ -104,8 +104,6 @@
           </li>
           
           <!-- Other pages -->
-          
-          
           
           
           
@@ -201,36 +199,30 @@
     <div class="container mt-5">
       <div class="post">
 
-  <div class="header-bar">
-    <!---<h1></h1>--->
-    <h2>Thoughts and updates from a geospatial data scientist</h2>
-  </div>
+  <header class="post-header">
+    <h1 class="post-title">Spatial Accessibility for COVID-19</h1>
+    <p class="post-description">Measuring spatial accessibility to healthcare resources for the COVID-19 pandemic</p>
+  </header>
 
+  <article>
+    <p>The COVID-19 pandemic has illustrated the life-saving importance of healthcare resources like ventilators and ICU beds. We employed spatial accessibility methods to understand how access to these crucial resources varies across space and analyzed the relationship between access and socio-economic vulnerability measured by the CDC Social Vulnerability Index (SVI). Our <a href="https://doi.org/10.1186/s12942-020-00229-x">publication can be seen here</a> and the abstract for the paper is as follows:</p>
 
-  <ul class="post-list">
-    
-      <li>
-        <h3><a class="post-title" href="/blog/2021/Gateways2021/">Gateways 2021</a></h3>
-        <p class="post-meta">October 21, 2021</p>
-        <p>Information on our work presented at Gateways 2021</p>
-      </li>
-    
-      <li>
-        <h3><a class="post-title" href="/blog/2020/GeoSim2020/">An Exploration of the Effect of Buyer Preference and Market Composition on the Rent Gradient using the ALMA Framework</a></h3>
-        <p class="post-meta">November 3, 2020</p>
-        <p>Information on my short-paper presented at GeoSim 2020</p>
-      </li>
-    
-      <li>
-        <h3><a class="post-title" href="/blog/2020/COVID-19Accessibility/">Rapidly Measuring Spatial Accessibility of COVID-19 Healthcare Resources: A Case Study of Illinois, USA</a></h3>
-        <p class="post-meta">May 10, 2020</p>
-        <p>Work calculating spatial accessibility to crucial resources during the COVID-19 pandemic.</p>
-      </li>
-    
-  </ul>
+<blockquote>
+  <p>“The severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2), causing the coronavirus disease 2019 (COVID-19) pandemic, has infected millions of people and caused hundreds of thousands of deaths. While COVID-19 has overwhelmed healthcare resources (e.g., healthcare personnel, testing resources, hospital beds, and ventilators) in a number of countries, limited research has been conducted to understand spatial accessibility of such resources. This study fills this gap by rapidly measuring the spatial accessibility of COVID-19 healthcare resources with a particular focus on Illinois, USA. Specifically, the rapid measurement is achieved by resolving computational intensity of an enhanced two-step floating catchment area (E2SFCA) method through a parallel computing strategy based on cyberGIS (cyber geographic information science and systems). The study compared the spatial accessibility measures for COVID-19 patients to those of general population, identifying which geographic areas need additional healthcare resources to improve access. The results also help delineate the areas that may face a COVID-19-induced shortage of healthcare resources caused by COVID-19. The Chicagoland, particularly the southern Chicago, shows an additional need for resources. Our findings are relevant for policymakers and public health practitioners to allocate existing healthcare resources or distribute new resources for maximum access to health services.”</p>
+</blockquote>
 
-  
+<div class="row" style="text-align: center;">
+    <div class="col-sm mt-3 mt-md-0">
+        <img class="img-fluid rounded z-depth-1" src="/assets/img/WhereCOVID-19Acc.png" alt="" title="WhereCOVID-19 Accessibility" />
+    </div>
+</div>
+<div class="caption">
+    A screenshot of the WhereCOVID-19 Dashboard's Accessibility Explorer
+</div>
 
+<p>To keep pace with the rapidly evolving pandemic, our measures are re-calculated daily and included into the <a href="https://wherecovid19.cigi.illinois.edu/spatialAccess.html">CIGI WhereCOVID-19 analytics dashboard</a> so we can understand how accessibility changes as infrastructure and cases do.</p>
+
+  </article>
 
 </div>
 
