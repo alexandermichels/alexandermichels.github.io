@@ -23,4 +23,4 @@ His work on [FAIR (Findable, Accessible, Interoperable, and Reproducible)](https
 
 If you're interested in my work or collaborating, please feel free to reach out! If you want to chat over coffee, we can meet on campus at UIUC or I'm planning to attend these upcoming events in-person:
 
-* Oct 14-16th, 2024. Jackson, WY, USA. [I-GUIDE Forum 2024](https://i-guide.io/forum/forum-2024/)
+* Mar 24-28th, 2025. Detroit, MI, USA. [American Association of Geographers (AAG) Annual Meeting](https://www.aag.org/events/aag2025/)
