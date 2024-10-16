@@ -47,6 +47,9 @@
       user: "cybergis"
       repo: "ACES2023-CyberGIS-Compute"
     - platform: github
+      user: "alexandermichels"
+      repo: "Al-FolioGuide"
+    - platform: github
       user: "cybergis"
       repo: "cybergis-compute-examples"
     - platform: github
@@ -61,12 +64,12 @@
     - platform: github
       user: "cybergis"
       repo: "pysal-access-compute-example"
-    - platform: github
-      user: "cybergis"
-      repo: "QueenAnneFlu"
     # - platform: github
     #   user: "cybergis"
-    #   repo: "intro-to-osm-network-data"
+    #   repo: "QueenAnneFlu"
+    - platform: github
+      user: "cybergis"
+      repo: "intro-to-osm-network-data"
 # - category: "Jupyter Notebooks"
 #   link: "jupyter"
 #   desc: 'Jupyter notebooks designed to teach and demonstrate. Also check out my notebooks on <a href="https://cybergisxhub.cigi.illinois.edu/user-profile/alexandermichels/" target="_blank">CyberGISXHub</a>.'
