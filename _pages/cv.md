@@ -198,6 +198,12 @@ Special Interest Groups:
 ### Conference and Workshops
 
 **Symposium Organizer**  
+[AAG 2025 Symposium on Spatial AI & Data Science for Sustainability](https://i-guide.io/aag-2025-symposium-on-spatial-ai-data-science-for-sustainability/)  
+
+**Session Organizer**, Challenges and Opportunities of Spatial Accessibility
+[AAG 2025 Symposium on Spatial AI & Data Science for Sustainability](https://i-guide.io/aag-2025-symposium-on-spatial-ai-data-science-for-sustainability/) 
+
+**Symposium Organizer**  
 [AAG 2024 Symposium on Geospatial Data Science for Sustainability](https://iguide.illinois.edu/aag-2024-symposium-on-geospatial-data-science-for-sustainability/)  
 
 **Session Organizer**, Challenges and Opportunities of Spatial Accessibility 1 & 2  
