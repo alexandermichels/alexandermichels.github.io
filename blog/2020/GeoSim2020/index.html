@@ -1,12 +1,11 @@
 <!DOCTYPE html>
 <html>
-
   <head>
     <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 
-<title>Alex  Michels | blank</title>
+<title>Alex  Michels | An Exploration of the Effect of Buyer Preference and Market Composition on the Rent Gradient using the ALMA Framework</title>
 <meta name="description" content="Personal website of Alexander Michels, PhD student at UIUC.
 ">
 
@@ -29,7 +28,7 @@
 <link rel="icon" href="/assets/img/Networks.ico">
 <link rel="stylesheet" href="/assets/css/main.css">
 
-<link rel="canonical" href="/blog/">
+<link rel="canonical" href="/blog/2020/GeoSim2020/">
 
 <!-- JQuery -->
 <!-- jQuery -->
@@ -70,7 +69,46 @@
 <script defer src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
 
 
+    <script src="/assets/js/distillpub/template.v2.js"></script>
+    <script src="/assets/js/distillpub/transforms.v2.js"></script>
+    
   </head>
+
+  <d-front-matter>
+    <script async type="text/json">{
+      "title": "An Exploration of the Effect of Buyer Preference and Market Composition on the Rent Gradient using the ALMA Framework",
+      "description": "Information on my short-paper presented at GeoSim 2020",
+      "published": "November 3, 2020",
+      "authors": [
+        
+        {
+          "author": "Alexander Michels",
+          "authorURL": "https://alexandermichels.github.io/",
+          "affiliations": [
+            {
+              "name": "University of Illinois at Urbana-Champaign",
+              "url": ""
+            }
+          ]
+        }
+        
+      ],
+      "katex": {
+        "delimiters": [
+          {
+            "left": "$",
+            "right": "$",
+            "display": false
+          },
+          {
+            "left": "$$",
+            "right": "$$",
+            "display": true
+          }
+        ]
+      }
+    }</script>
+  </d-front-matter>
 
   <body class="fixed-top-nav ">
 
@@ -104,8 +142,6 @@
           </li>
           
           <!-- Other pages -->
-          
-          
           
           
           
@@ -198,41 +234,42 @@
 
     <!-- Content -->
 
-    <div class="container mt-5">
-      <div class="post">
+    <div class="post distill">
 
-  <div class="header-bar">
-    <!---<h1></h1>--->
-    <h2>Thoughts and updates from a geospatial data scientist</h2>
-  </div>
-
-
-  <ul class="post-list">
-    
-      <li>
-        <h3><a class="post-title" href="/blog/2021/Gateways2021/">Gateways 2021</a></h3>
-        <p class="post-meta">October 21, 2021</p>
-        <p>Information on our work presented at Gateways 2021</p>
-      </li>
-    
-      <li>
-        <h3><a class="post-title" href="/blog/2020/GeoSim2020/">An Exploration of the Effect of Buyer Preference and Market Composition on the Rent Gradient using the ALMA Framework</a></h3>
-        <p class="post-meta">November 3, 2020</p>
+      <d-title>
+        <h1>An Exploration of the Effect of Buyer Preference and Market Composition on the Rent Gradient using the ALMA Framework</h1>
         <p>Information on my short-paper presented at GeoSim 2020</p>
-      </li>
-    
-      <li>
-        <h3><a class="post-title" href="/blog/2020/COVID-19Accessibility/">Rapidly Measuring Spatial Accessibility of COVID-19 Healthcare Resources: A Case Study of Illinois, USA</a></h3>
-        <p class="post-meta">May 10, 2020</p>
-        <p>Work calculating spatial accessibility to crucial resources during the COVID-19 pandemic.</p>
-      </li>
-    
-  </ul>
+      </d-title>
 
-  
+      <d-byline></d-byline>
 
+      <d-article>
+        <p>I will be presenting my short paper, <a href="https://doi.org/10.1145/3423335.3428167">“An Exploration of the Effect of Buyer Preference and Market Composition on the Rent Gradient using the ALMA Framework”</a> with <a href="https://scholar.google.com/citations?user=u5cevWAAAAAJ&amp;hl=en&amp;oi=ao">Jeon-Young Kang</a> and <a href="https://scholar.google.com/citations?user=qcUhJIcAAAAJ&amp;hl=en&amp;oi=ao">Shaowen Wang</a> at <a href="http://www.geosim.org/p/program.html">GeoSim ‘20</a> today at 1pm CST. The abstract for the paper is:</p>
 
-</div>
+<blockquote>
+  <p>Urban land markets exhibit complex emergent behaviors that have yet to be fully explained by the microeconomic decision-making which constitutes the market. The Agent-based Land MArket (ALMA) framework has been introduced to simulate a bilateral agent-based land market that produces a rent gradient. In this paper, we extend the ALMA framework by introducing two new parameters, heterogeneity, and stochasticity which allow us to explore how the rent gradient is affected by buyers with diverse preferences and a range of market compositions.</p>
+</blockquote>
+
+<p><img width="80%" style="display: block; margin-left: auto; margin-right: auto;" src="/assets/gif/alma.gif" /></p>
+
+<p>A Python implementation of the ABM <a href="https://cybergisxhub.cigi.illinois.edu/notebook/agent-based-land-market/">has been uploaded to CyberGISx Hub</a>. CyberGISx Hub is a Jupyter-based platform for developing and sharing geospatial software and applications.</p>
+
+<p>Further, if you’d like to access the slides from my presentation, the <a href="/assets/pdf/GeoSim2020-Michels-ALMA.pdf">PDF can be found here</a> although the presentation has a few gifs which don’t work in the PDF export.</p>
+
+<p><strong>TL;DR:</strong></p>
+
+<ul>
+  <li><a href="https://cybergisxhub.cigi.illinois.edu/notebook/agent-based-land-market/">Code</a></li>
+  <li><a href="https://doi.org/10.1145/3423335.3428167">Paper</a></li>
+  <li><a href="/assets/pdf/GeoSim2020-Michels-ALMA.pdf">PDF of Presentation</a></li>
+</ul>
+
+      </d-article>
+
+      <d-appendix>
+        <d-footnote-list></d-footnote-list>
+        <d-citation-list></d-citation-list>
+      </d-appendix>
 
     </div>
 
@@ -255,23 +292,7 @@
 
   </body>
 
-  <!-- Bootsrap & MDB scripts -->
-<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/2.4.4/umd/popper.min.js" integrity="sha512-eUQ9hGdLjBjY3F41CScH3UX+4JDSI9zXeroz7hJ+RteoCaY+GP/LDoM8AO+Pt+DRFw3nXqsjh9Zsts8hnYv8/A==" crossorigin="anonymous"></script>
-<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js" integrity="sha512-M5KW3ztuIICmVIhjSqXe01oV2bpe248gOxqmlcYrEzAvws7Pw3z6BK0iGbrwvdrUQUhi3eXgtxp5I8PDo9YfjQ==" crossorigin="anonymous"></script>
-<script src="https://cdnjs.cloudflare.com/ajax/libs/mdbootstrap/4.19.1/js/mdb.min.js" integrity="sha512-Mug9KHKmroQFMLm93zGrjhibM2z2Obg9l6qFG2qKjXEXkMp/VDkI4uju9m4QKPjWSwQ6O2qzZEnJDEeCw0Blcw==" crossorigin="anonymous"></script>
-
-  
-<!-- Mansory & imagesLoaded -->
-<script defer src="https://unpkg.com/masonry-layout@4/dist/masonry.pkgd.min.js"></script>
-<script defer src="https://unpkg.com/imagesloaded@4/imagesloaded.pkgd.min.js"></script>
-<script defer src="/assets/js/mansory.js" type="text/javascript"></script>
-
-
-  
-
-
-<!-- Load Common JS -->
-<script src="/assets/js/common.js"></script>
-
+  <d-bibliography src="/assets/bibliography/">
+  </d-bibliography>
 
 </html>
