@@ -18,13 +18,35 @@
   - firstname: ["Andrew", "A", "A."]
     url: https://scholar.google.com/citations?user=RDQF0ScAAAAJ
 
+"Fayaz-Farkhad":
+  - firstname: ["Bita", "B", "B."]
+    url: "https://scholar.google.com/citations?user=ROvbBi8AAAAJ"
+
 "Han":
+  - firstname: ["Chaeyeon", "C", "C."]
+    url: "https://scholar.google.com/citations?user=_4W_x-MAAAAJ"
   - firstname: ["Su", "S.", "Su Yeon", "S. Y."]
-    url: https://scholar.google.com/citations?user=oVTYA5kAAAAJ&hl
+    url: https://scholar.google.com/citations?user=oVTYA5kAAAAJ
+
+"Haqiqi":
+  - firstname: ["Iman", "I", "I."]
+    url: https://scholar.google.com/citations?user=YlXNrHgAAAAJ
+
+"Jaroenchai":
+  - firstname: ["Nattapon", "Nathan", "N", "N."]
+    url: "https://scholar.google.com/citations?user=Z_9XZGEAAAAJ"
+
+"Jiang":
+  - firstname: ["Yuqin", "Y", "Y"]
+    url: "https://scholar.google.com/citations?user=BaMTux0AAAAJ"
 
 "Kang":
   - firstname: ["Jeon-Young", "J-Y", "J.-Y."]
     url: https://scholar.google.com/citations?user=u5cevWAAAAAJ
+
+"Kim":
+  - firstname: ["Joon-Seok", "J-S", "J.-S."]
+    url: "https://scholar.google.com/citations?user=cAE-vgwAAAAJ"
 
 "Kotak":
   - firstname: ["Mit", "M", "M."]
@@ -40,6 +62,10 @@
   - firstname: ["Fangzheng", "F", "F."]
     url: "https://scholar.google.com/citations?user=FNN4IasAAAAJ"
 
+"Manning":
+  - firstname: ["Nicholas", "Nick", "N", "N."]
+    url: "https://scholar.google.com/citations?user=T4xVeaMAAAAJ"
+
 "Nassar":
   - firstname: ["Ayman", "A.", "A", "Ayman M. M."]
     url: "https://scholar.google.com/citations?user=6flaS3YAAAAJ"
@@ -52,9 +78,17 @@
   - firstname: ["Jinwoo", "J", "J."]
     url: "https://scholar.google.com/citations?user=nWiH4jsAAAAJ"
 
+"Shi":
+  - firstname: ["Jimeng", "J.", "J"]
+    url: "https://scholar.google.com/citations?user=rnNnv8cAAAAJ"
+
 "Tarboton":
   - firstname: ["David", "David G.", "D", "D."]
     url: "https://scholar.google.com/citations?user=fo6rTT8AAAAJ"
+
+"Tonks":
+  - firstname: ["Adam", "A", "A."]
+    url: "https://scholar.google.com/citations?user=wbkE8h4AAAAJ"
 
 "Vandewalle":
   - firstname: ["Rebecca", "Becky", "R", "B", "R.", "B."]

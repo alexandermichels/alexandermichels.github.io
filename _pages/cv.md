@@ -5,10 +5,9 @@ title: CV
 nav: true
 ---
 
-CV: <a href="https://raw.githubusercontent.com/alexandermichels/CV/master/CurriculumVitae.pdf" target="_blank">PDF</a>, <a href="https://github.com/alexandermichels/CV/blob/master/CurriculumVitae.pdf" target="_blank">View On Github</a>
+**Curriculum Vitae:** <a href="https://raw.githubusercontent.com/alexandermichels/CV/master/CurriculumVitae.pdf" style="padding:3px; border:1px solid fuchsia" target="_blank">Download PDF</a> <a href="https://github.com/alexandermichels/CV/blob/master/CurriculumVitae.pdf" style="padding:3px; border:1px solid fuchsia" target="_blank">View On Github</a>
 
-Resume: <a href="https://raw.githubusercontent.com/alexandermichels/CV/master/Resume.pdf" target="_blank">PDF</a>, <a href="https://github.com/alexandermichels/CV/blob/master/Resume.pdf" target="_blank">View On Github</a>
-
+<!-- <p>Resume: <a href="https://raw.githubusercontent.com/alexandermichels/CV/master/Resume.pdf" target="_blank">Download PDF</a>, <a href="https://github.com/alexandermichels/CV/blob/master/Resume.pdf" target="_blank">View On Github</a></p> -->
 
 ## Table of Contents
 
@@ -43,7 +42,7 @@ Resume: <a href="https://raw.githubusercontent.com/alexandermichels/CV/master/Re
 
 ## [Education](#edu)
 
-**Ph.D. in Spatial Informatics (in progress)**  
+**Ph.D. in Informatics (in progress)**  
 University of Illinois at Urbana-Champaign  
 June 2019 - Present  
 Advised by Dr. Shaowen Wang

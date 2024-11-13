@@ -15,7 +15,7 @@ social: true  # includes social icons at the bottom of the page
 ---
 
 Alex Michels is an ABD PhD candidate studying Spatial Informatics under Dr. Shaowen Wang at the University of Illinois Urbana-Champaign (UIUC). 
-He is currently a research assistant at the [CyberGIS Center for Advanced Digital and Spatial Studies](http://cybergis.illinois.edu/) and applying for positions with a Summer/Fall 2025 start date.
+He is currently a research assistant at the [CyberGIS Center for Advanced Digital and Spatial Studies](http://cybergis.illinois.edu/). 
 
 Alex is passionate about access & cyberGIS meaning: (1) using cyberGIS to analyze spatial patterns and systems of inaccessibility and inequity and (2) making cyberGIS tools and technology accessible to all.
 His work in analysis and modeling includes Spatial Agent-Based Models (SABMs) for public health and work advancing the methods of spatial accessibiliy with applications including the [WhereCOVID-19 Spatial Accessibility Explorer](https://wherecovid19.cigi.illinois.edu/spatialAccess.html) for rapidly measuring spatial accessibility during the COVID-19 pandemic.
