@@ -1,6 +1,11 @@
 - type: "Conference Presentations"
   link: "conference"
   presentations:
+    - title: "Data-Intensive Convergence Science for Analyzing Place-Based Spatial Accessibility"
+      event: "I-GUIDE Forum 2024: Convergence Science and Geospatial AI for Environmental Sustainability"
+      time: October 2024
+      place: Jackson, WY
+      presenters: "Alexander Michels*"
     - title: "Providing Accessible Software Environments Across Science Gateways and HPC"
       event: "Practice and Experience in Advanced Research Computing (PEARC)"
       time: July 2024
@@ -180,6 +185,16 @@
 - type: "Poster Sessions"
   link: "poster"
   presentations:
+    - title: "Measuring Road Network Equity and Resilience for Evacuations and Natural Hazards"
+      event: "I-GUIDE Forum 2024: Convergence Science and Geospatial AI for Environmental Sustainability"
+      place: Jackson, WY
+      time: October 2024
+      presenters: "Alexander Michels*, Chrysafis Vogiatzis, and Shaowen Wang"
+    - title: "Measuring Road Network Equity and Resilience for Evacuations and Natural Hazards"
+      event: NSF HDR Ecosystem Conference
+      place: St. Louis, MO
+      time: September 2024
+      presenters: "Alexander Michels*, Chrysafis Vogiatzis, and Shaowen Wang"
     - title: "CyberGIS-Compute: Middleware for Democratizing Scalable Geocomputation"
       event: NSF HDR Ecosystem Conference
       place: Denver, CO
