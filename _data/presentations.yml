@@ -126,17 +126,13 @@
     #   event: Pi Mu Epsilon Regional Conference
     #   place: Youngstown, OH 
     #   time: February 2017
-# - type: "Invited Talks"
-#   link: "invited"
-#   presentations:
-    # - title: Information Extraction and Aggregation for Business Profiling
-    #   event: Institute for Pure and Applied Mathematics (IPAM)
-    #   place: Los Angeles, CA  
-    #   time: August 2018
-    # - title: Information Extraction and Aggregation for Business Profiling
-    #   event: Praedicat, Inc.
-    #   place: Los Angeles, CA  
-    #   time: July 2018
+- type: "Invited Talks"
+  link: "invited"
+  presentations:
+    - title: CyberGIS for Scalable Spatial Accessibility Analysis
+      event: The SDOH & Place End of Year Celebration
+      place: Chicago, IL  
+      time: December 2024
 - type: "Tutorials & Workshops"
   link: "workshop"
   presentations:
