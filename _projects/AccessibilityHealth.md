@@ -8,7 +8,7 @@ category: Spatial Accessibility
 # github: https://github.com/cybergis/COVID-19AccessibilityNotebook
 ---
 
-Spatial Accessibility helps to quantify the disparities in access to critical goods and services across space. In the context of healthcare, those inequities have real-word consequences for the health and lives of people. 
+Spatial Accessibility helps to quantify the disparities in access to critical goods and services across space. In the context of healthcare, those disparities have real-word consequences for the health and lives of people. 
 
 <div class="row" style="text-align: center;">
     <div class="col-sm mt-3 mt-md-0">
