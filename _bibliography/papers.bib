@@ -62,6 +62,7 @@
   url = {https://doi.org/10.1111/gean.12415},
   abstract = {Place-based spatial accessibility quantifies the distribution of access to goods and services across space. The Two-Step Floating Catchment Area (2SFCA) family of methods have become a default tool for spatial accessibility analysis in part due to their intuitive approach and interpretability. This family of methods relies on calculating catchment areas around supply locations to estimate the area and population that may utilize them. However, these “catchment areas” are generally defined by origin-destination matrices of travel-time, giving us point-to-point distances and not polygons with actual area. This means that population geographies (census tracts, blocks, etc.) are binarily included or excluded, with no room for partial inclusion. When using nongranular data, which is often the case due to data privacy restrictions, this has the potential to cause significant errors in accessibility measurements. In this article, we propose Areal 2SFCA: a new approach that considers the area of overlap between travel-time polygons and population geographies. We demonstrate the effectiveness of the Areal 2SFCA method using a case study that compares the Enhanced Two-Step Floating Catchment Area (E2SFCA) and Areal E2SFCA for the state of Illinois in the USA using multiple population granularities.},
   code = {https://github.com/cybergis/A2SFCA/},
+  data = {https://figshare.com/s/9f87748219f84f09e4a7},
   abbr = {Geog Analysis},
   selected = {true},
   spaccmeth = {true},
@@ -104,6 +105,7 @@
     keywords = {CyberGIS, High-performance computing, Middleware, Scientific workflow},
     abstract = {CyberGIS—geographic information science and systems (GIS) based on advanced cyberinfrastructure—is becoming increasingly important to tackling a variety of socio-environmental problems like climate change, disaster management, and water security. While recent advances in high-performance computing (HPC) have the potential to help address these problems, the technical knowledge required to use HPC has posed challenges to many domain experts. In this paper, we present CyberGIS-Compute: a geospatial middleware tool designed to democratize HPC access for solving diverse socio-environmental problems. CyberGIS-Compute does this by providing a simple user interface in Jupyter, streamlining the process of integrating domain-specific models with HPC, and establishing a suite of APIs friendly to domain experts.},
     abbr = {SoftwareX},
+    code = {https://github.com/cybergis/cybergis-compute-core},
     jour = {true},
     cybergiscompute = {true},
     selected = {true}
@@ -121,6 +123,8 @@
     doi = {https://doi.org/10.1080/13658816.2024.2326445},
     abstract = {Travel-time computation with large transportation networks is often computationally intensive for two main reasons: 1) large computer memory is required to handle large networks; and 2) calculating shortest-distance paths over large networks is computing intensive. Therefore, previous research tends to limit their spatial extent to reduce computational intensity or resolve computational intensity with advanced cyberinfrastructure. In this context, this article describes a new Spatial Partitioning Algorithm for Scalable Travel-time Computation (SPASTC) that is designed based on spatial domain decomposition with computer memory limit explicitly considered. SPASTC preserves spatial relationships required for travel-time computation and respects a user-specified memory limit, which allows efficient and large-scale travel-time computation within the given memory limit. We demonstrate SPASTC by computing spatial accessibility to hospital beds across the conterminous United States. Our case study shows that SPASTC achieves significant efficiency and scalability making the travel-time computation tens of times faster.},
     abbr = {IJGIS},
+    code = {https://github.com/cybergis/spastcnotebook},
+    data = {https://doi.org/10.6084/m9.figshare.23519190},
     jour = {true},
     spaccmeth = {true},
     selected = {true}
