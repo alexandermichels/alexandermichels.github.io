@@ -224,6 +224,7 @@ Special Interest Groups:
 
 * Geocarto International, Taylor & Francis
 * International Journal of Geographical Information Science (IJGIS), Taylor & Francis
+* Quality & Quantity, Springer
 
 
 ### Professional Organizations

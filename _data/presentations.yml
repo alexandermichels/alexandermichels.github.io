@@ -1,6 +1,11 @@
 - type: "Conference Presentations"
   link: "conference"
   presentations:
+    - title: "Measuring Temporally Dynamic Spatial Accessibility using Machine Learned Driving Times"
+      event: "American Association of Geographers (AAG) Annual Meeting"
+      time: March 2025
+      place: Detroit, MI
+      presenters: "Alexander Michels*"
     - title: "Data-Intensive Convergence Science for Analyzing Place-Based Spatial Accessibility"
       event: "I-GUIDE Forum 2024: Convergence Science and Geospatial AI for Environmental Sustainability"
       time: October 2024
