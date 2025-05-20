@@ -13,8 +13,7 @@ nav: true
 
 <ul>
     <li><a href="#edu">Education</a></li>
-    <li><a href="#research-exp">Research Experience</a></li>
-    <li><a href="#teaching-exp">Teaching Experience</a></li>
+    <li><a href="#prof-exp">Professional Experience</a></li>
     <li><a href="#awards">Awards</a></li>
     <li><a href="#pub">Publications</a></li>
     <ul>
@@ -33,8 +32,9 @@ nav: true
         <li><a href="#{{type.link}}">{{type.type}}</a></li>
         {% endfor %}
     </ul>
-    <li><a href="#prof-assoc">Professional Associations</a></li>
+    <li><a href="#teaching">Teaching and Mentoring</a></li>
     <li><a href="#prof-service">Professional Service</a></li>
+    <li><a href="#prof-assoc">Professional Associations</a></li>
 </ul>
 
 <hr id="edu" />
@@ -42,13 +42,13 @@ nav: true
 
 ## [Education](#edu)
 
-**Ph.D. in Informatics (in progress)**  
-University of Illinois at Urbana-Champaign  
-June 2019 - Present  
+**Ph.D. in Informatics**  
+University of Illinois Urbana-Champaign  
+June 2019 - May 2025
 Advised by Dr. Shaowen Wang
 
 **M.S. in Geography**  
-University of Illinois at Urbana-Champaign  
+University of Illinois Urbana-Champaign  
 May 2024  
 Advised by Dr. Shaowen Wang
 
@@ -60,38 +60,27 @@ Honors Thesis: "Capturing the Predictive Power of Cortical Learning Algorithms"
 
 <hr id="research-exp" />
 
-## [Research Experience](#research-exp)
+## [Professional Experience](#prof-exp)
 
-**CyberGIS Center for Advanced Digital and Spatial Studies**  
-[CyberGIS Center](https://cybergis.illinois.edu/) and [CyberInfrastructure and Geospatial Information Laboratory](https://cigi.illinois.edu/)  
-June 2019 - Present  
-* Lead developer on [CyberGIS-Compute](https://github.com/cybergis/cybergis-compute-python-sdk) (75 users; Typescript, Python, SLURM, Globus) and [CyberGIS-Jupyter](https://cybergisx.cigi.illinois.edu/) (1368 users; Docker, Docker Swarm, Linux, Bash, Ansible, Kubernetes).
-* Managed 6 student research programmers; interviewed and hired students and full-time staff.
-* Led workshops with 50+ participants and organized conference symposiums/sessions.
-* Analyzed spatial Big Data using Bash, HPC, Python, Machine Learning (ML), and SQL.
-* Published 16 articles and presented at 20+ conferences, garnering 200+ citations.
-
-**SESYNC Graduate Research Fellow**  
-National Socio-Environmental Synthesis Center (SESYNC)  
-February 2020 - January 2022
-* Worked on Graduate Pursuit entitled "[Financial Opacity and Challenges to Forest Governance in Indonesia and Malaysia](https://www.sesync.org/project/graduate-pursuits-request-for-proposals/financial-opacity-and-challenges-to-forest)"
-
-**Informatics Researcher**  
-Institute for Pure and Applied Mathematics at UCLA / Praedicat, Inc.  
-June 2018 - August 2018
-* Worked for Praedicat, Inc. automating information extraction, classification, and aggregation from web data for business profiling of over 52,600 companies and corporate entities.
-* Worked for IPAM to develop a novel algorithm for computational fact-checking on knowledge graphs and a self-supervised machine learning algorithm for sentence importance which outperformed TF-IDF.
-
-
-<hr id="teaching-exp" />
-
-
-## [Teaching Experience](#teaching-exp)
-
-**Business Location Decisions (GGIS/BADM 205)**, Spring 2023  
+**Postdoctoral Research Associate**  
+May 2025 - July 2025  
 Department of Geography and Geographic Information Science  
-*Analyzes location decision-making emphasizing industrial and commercial location patterns; identifies important institutional factors and their changing roles over the recent past; and focuses on plant closings, economic disruptions, and problems of structural change.*  
+University of Illinois Urbana-Champaign
 
+**Research Assistant**  
+May 2023 - May 2025 
+CyberGIS Center for Advanced Digital and Spatial Studies  
+University of Illinois Urbana-Champaign
+
+**Teaching Assistant**  
+Jan 2023 - May 2023
+Department of Geography and Geographic Information Science  
+University of Illinois Urbana-Champaign
+
+**Research Assistant**  
+June 2019 - Jan 2023
+CyberGIS Center for Advanced Digital and Spatial Studies  
+University of Illinois Urbana-Champaign
 
 <hr id="awards" />
 
@@ -166,43 +155,45 @@ Asterisk (*) indicates the presenter(s).
   </ul>
 {% endfor %}
 
-<hr id="prof-assoc" />
 
-## [Professional Associations](#prof-assoc)
+<hr id="teaching-exp" />
 
-**American Association of Geographers (AAG)**  
-Specialty Groups:   
-* Applied Geography  
-* Cyberinfrastructure (CISG)  
-* Geographic Information Science & Systems  
-* Health and Medical Geography  
-* Spatial Analysis and Modeling  
-* Transportation Geography  
 
-**Association for Computing Machinery (ACM)**  
-Special Interest Groups:  
-* SIGSPATIAL (Spatial Information)
+## [Teaching Experience](#teaching-exp)
 
-**Cartography and Geographic Information Society (CaGIS)**  
+**Business Location Decisions (GGIS/BADM 205)**, Spring 2023  
+Department of Geography and Geographic Information Science  
+*Analyzes location decision-making emphasizing industrial and commercial location patterns; identifies important institutional factors and their changing roles over the recent past; and focuses on plant closings, economic disruptions, and problems of structural change.*  
 
-**Campus Research Computing Consortium (CaRCC)**  
-
-**United States Research Software Engineer Association (US-RSE)**  
 
 <hr id="prof-service" />
 
-
 ## [Professional Service](#prof-service)
+
+
+
+### Professional Organizations
+
+**Director**  
+AAG CyberInfrastructure Specialty Group (CISG)  
+Feb 2022 - Apr 2026  
+
+**Student Director**  
+AAG CyberInfrastructure Specialty Group (CISG)  
+Apr 2021 - Feb 2022  
 
 ### Conference and Workshops
 
-**Symposium Organizer**  
+**Reviewer**  
+[I-GUIDE Forum 2025: Geospatial AI and Innovation for Sustainability Solutions](https://i-guide.io/forum/forum-2025/)
+
+**Symposium Co-Organizer**  
 [AAG 2025 Symposium on Spatial AI & Data Science for Sustainability](https://i-guide.io/aag-2025-symposium-on-spatial-ai-data-science-for-sustainability/)  
 
 **Session Organizer**, Challenges and Opportunities of Spatial Accessibility
 [AAG 2025 Symposium on Spatial AI & Data Science for Sustainability](https://i-guide.io/aag-2025-symposium-on-spatial-ai-data-science-for-sustainability/) 
 
-**Symposium Organizer**  
+**Symposium Co-Organizer**  
 [AAG 2024 Symposium on Geospatial Data Science for Sustainability](https://iguide.illinois.edu/aag-2024-symposium-on-geospatial-data-science-for-sustainability/)  
 
 **Session Organizer**, Challenges and Opportunities of Spatial Accessibility 1 & 2  
@@ -224,16 +215,17 @@ Special Interest Groups:
 
 * Geocarto International, Taylor & Francis
 * International Journal of Geographical Information Science (IJGIS), Taylor & Francis
+* ISPRS International Journal of Geo-Information, MDPI
 * Quality & Quantity, Springer
 
 
-### Professional Organizations
 
-**Director**  
-AAG CyberInfrastructure Specialty Group (CISG)  
-February 2022 - April 2026  
 
-**Student Director**  
-AAG CyberInfrastructure Specialty Group (CISG)  
-April 2021 - February 2022  
+<hr id="prof-assoc" />
 
+## [Professional Associations](#prof-assoc)
+
+* American Association of Geographers (AAG)
+* Association for Computing Machinery (ACM)
+* Campus Research Computing Consortium (CaRCC)
+* United States Research Software Engineer Association (US-RSE)
