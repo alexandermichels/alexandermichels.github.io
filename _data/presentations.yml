@@ -97,40 +97,6 @@
       place: "Chicago, IL"
       time: November 2019
       presenters: "Jeon-Young Kang*, Jared Aldstadt, Alexander Michels, Rebecca Vandewalle, and Shaowen Wang"
-    # - title: Capturing the Predictive Power of Cortical Learning Algorithms
-    #   event: Undergraduate Research & Arts Festival @ Westminster College
-    #   place: New Wilmington, PA
-    #   time:  April 2019
-    #   presenters: "Alexander Michels*"
-    # - title: Computational Fact-Checking through Relational Similarity based Path Mining
-    #   event: Undergraduate Research & Arts Festival @ Westminster College
-    #   place: New Wilmington, PA  
-    #   time: April 2019
-    #   presenters: "Alexander Michels*"
-    # - title: Capturing the Predictive Power of Cortical Learning Algorithms
-    #   event: National Conference on Undergraduate Research
-    #   place: Atlanta, GA
-    #   time: April 2019
-    #   presenters: "Alexander Michels*"
-    # - title: Computational Fact-Checking through Relational Similarity based Path Mining
-    #   event: AMS Contributed Paper Session at 2019 Joint Mathematics Meeting
-    #   place: Baltimore, MD
-    #   time: January 2019
-    #   presenters: "Himanshu Ahuja and Alexander Michels*"
-    # - title: Decentralizing the World with Blockchain
-    #   event: Undergraduate Research & Arts Festival @ Westminster College
-    #   place: New Wilmington, PA
-    #   time: April 2018
-    #   presenters: "Alexander Michels*"
-    # - title: Repeated Play Games
-    #   event: Mathematics Association of America Allegheny Mountain Section Meeting
-    #   place: Pittsburgh, PA
-    #   time: April 2017
-    #   presenters: "Alexander Michels*"
-    # - title: Optimizing Throughput, Cost, and Safety in Toll Booth Plazas
-    #   event: Pi Mu Epsilon Regional Conference
-    #   place: Youngstown, OH 
-    #   time: February 2017
 - type: "Invited Talks"
   link: "invited"
   presentations:
@@ -141,6 +107,21 @@
 - type: "Tutorials & Workshops"
   link: "workshop"
   presentations:
+    - title: "Introduction to the I-GUIDE Platform"
+      event: I-GUIDE Virtual Consulting Office (VCO)
+      time: July 2025
+      place: Virtual
+      presenters: "Alexander Michels"
+    - title: "Introduction to the I-GUIDE Platform"
+      event: I-GUIDE Forum 2025
+      time: June 2025
+      place: Chicago, IL
+      presenters: "Alexander Michels"
+    - title: "Calculating Spatial Accessibility in Python with the I-GUIDE Platform"
+      event: I-GUIDE Virtual Consulting Office (VCO)
+      time: May 2025
+      place: virtual
+      presenters: "Alexander Michels"
     - title: "Introduction to Git"
       event: "I-GUIDE Summer School 2024: Leveraging AI for Environmental Sustainability"
       time: August 2024
