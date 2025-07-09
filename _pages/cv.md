@@ -32,13 +32,15 @@ nav: true
         <li><a href="#{{type.link}}">{{type.type}}</a></li>
         {% endfor %}
     </ul>
-    <li><a href="#teaching">Teaching and Mentoring</a></li>
+    <li><a href="#teaching">Teaching</a></li>
     <li><a href="#prof-service">Professional Service</a></li>
     <li><a href="#prof-assoc">Professional Associations</a></li>
 </ul>
 
-<hr id="edu" />
 
+
+
+<hr id="edu" style="margin-bottom:1.5cm" />
 
 ## [Education](#edu)
 
@@ -58,7 +60,10 @@ May 2019
 Minor in Computer Science, Cum Laude with Honors in Mathematics and CS  
 Honors Thesis: "Capturing the Predictive Power of Cortical Learning Algorithms"
 
-<hr id="research-exp" />
+
+
+
+<hr id="prof-exp" style="margin-bottom:1.5cm" />
 
 ## [Professional Experience](#prof-exp)
 
@@ -82,7 +87,10 @@ June 2019 - Jan 2023
 CyberGIS Center for Advanced Digital and Spatial Studies  
 University of Illinois Urbana-Champaign
 
-<hr id="awards" />
+
+
+
+<hr id="awards" style="margin-bottom:1.5cm" />
 
 ## [Awards](#awards)
 
@@ -92,7 +100,10 @@ University of Illinois Urbana-Champaign
   {{award.awarder}}
 {% endfor %}
 
-<hr id="pub" />
+
+
+
+<hr id="pub" style="margin-bottom:1.5cm" />
 
 ## [Publications](#pub)
 
@@ -123,7 +134,10 @@ University of Illinois Urbana-Champaign
 {% endfor %}
 </div>
 
-<hr id="pres" />
+
+
+
+<hr id="pres" style="margin-bottom:1.5cm" />
 
 ## [Presentations](#pres)
 
@@ -156,21 +170,22 @@ Asterisk (*) indicates the presenter(s).
 {% endfor %}
 
 
-<hr id="teaching-exp" />
 
 
-## [Teaching Experience](#teaching-exp)
+<hr id="teaching" style="margin-bottom:1.5cm" />
+
+## [Teaching Experience](#teaching)
 
 **Business Location Decisions (GGIS/BADM 205)**, Spring 2023  
 Department of Geography and Geographic Information Science  
 *Analyzes location decision-making emphasizing industrial and commercial location patterns; identifies important institutional factors and their changing roles over the recent past; and focuses on plant closings, economic disruptions, and problems of structural change.*  
 
 
-<hr id="prof-service" />
+
+
+<hr id="prof-service" style="margin-bottom:1.5cm" />
 
 ## [Professional Service](#prof-service)
-
-
 
 ### Professional Organizations
 
@@ -221,7 +236,7 @@ Apr 2021 - Feb 2022
 
 
 
-<hr id="prof-assoc" />
+<hr id="prof-assoc" style="margin-bottom:1.5cm" />
 
 ## [Professional Associations](#prof-assoc)
 
