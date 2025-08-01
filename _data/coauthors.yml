@@ -40,9 +40,15 @@
   - firstname: ["Yuqin", "Y", "Y"]
     url: "https://scholar.google.com/citations?user=BaMTux0AAAAJ"
 
+"Kalyanam":
+  - firstname: ["Rajesh", "R", "R."]
+    url: https://scholar.google.com/citations?user=iWx6G2wAAAAJ
+
 "Kang":
   - firstname: ["Jeon-Young", "J-Y", "J.-Y."]
     url: https://scholar.google.com/citations?user=u5cevWAAAAAJ
+  - firstname: ["Yunfan", "Y", "Y."]
+    url: https://scholar.google.com/citations?user=T8vfAJIAAAAJ
 
 "Kim":
   - firstname: ["Joon-Seok", "J-S", "J.-S."]
@@ -66,6 +72,10 @@
   - firstname: ["Nicholas", "Nick", "N", "N."]
     url: "https://scholar.google.com/citations?user=T4xVeaMAAAAJ"
 
+"Manson":
+  - firstname: ["Steven", "Steve", "S", "S."]
+    url: https://scholar.google.com/citations?user=zw-DFDgAAAAJ
+
 "Nassar":
   - firstname: ["Ayman", "A.", "A", "Ayman M. M."]
     url: "https://scholar.google.com/citations?user=6flaS3YAAAAJ"
@@ -81,6 +91,10 @@
 "Shi":
   - firstname: ["Jimeng", "J.", "J"]
     url: "https://scholar.google.com/citations?user=rnNnv8cAAAAJ"
+
+"Song":
+  - firstname: ["Carol", "X. Carol", "Carol X.", "C", "CX", "C.", "C.X."]
+    url: https://scholar.google.com/citations?user=L5OCx08AAAAJ
 
 "Tarboton":
   - firstname: ["David", "David G.", "D", "D."]
