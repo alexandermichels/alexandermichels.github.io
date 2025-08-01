@@ -12,8 +12,8 @@ nav: true
 ## Table of Contents
 
 <ul>
-    <li><a href="#edu">Education</a></li>
     <li><a href="#prof-exp">Professional Experience</a></li>
+    <li><a href="#edu">Education</a></li>
     <li><a href="#awards">Awards</a></li>
     <li><a href="#pub">Publications</a></li>
     <ul>
@@ -36,6 +36,36 @@ nav: true
     <li><a href="#prof-service">Professional Service</a></li>
     <li><a href="#prof-assoc">Professional Associations</a></li>
 </ul>
+
+
+<hr id="prof-exp" style="margin-bottom:1.5cm" />
+
+## [Professional Experience](#prof-exp)
+
+**Assistant Professor**  
+August 2025 - Present  
+School of Economic, Political and Policy Sciences  
+The University of Texas at Dallas
+
+**Postdoctoral Research Associate**  
+May 2025 - July 2025  
+Department of Geography and Geographic Information Science  
+University of Illinois Urbana-Champaign
+
+**Research Assistant**  
+May 2023 - May 2025 
+CyberGIS Center for Advanced Digital and Spatial Studies  
+University of Illinois Urbana-Champaign
+
+**Teaching Assistant**  
+Jan 2023 - May 2023
+Department of Geography and Geographic Information Science  
+University of Illinois Urbana-Champaign
+
+**Research Assistant**  
+June 2019 - Jan 2023
+CyberGIS Center for Advanced Digital and Spatial Studies  
+University of Illinois Urbana-Champaign
 
 
 
@@ -63,29 +93,6 @@ Honors Thesis: "Capturing the Predictive Power of Cortical Learning Algorithms"
 
 
 
-<hr id="prof-exp" style="margin-bottom:1.5cm" />
-
-## [Professional Experience](#prof-exp)
-
-**Postdoctoral Research Associate**  
-May 2025 - July 2025  
-Department of Geography and Geographic Information Science  
-University of Illinois Urbana-Champaign
-
-**Research Assistant**  
-May 2023 - May 2025 
-CyberGIS Center for Advanced Digital and Spatial Studies  
-University of Illinois Urbana-Champaign
-
-**Teaching Assistant**  
-Jan 2023 - May 2023
-Department of Geography and Geographic Information Science  
-University of Illinois Urbana-Champaign
-
-**Research Assistant**  
-June 2019 - Jan 2023
-CyberGIS Center for Advanced Digital and Spatial Studies  
-University of Illinois Urbana-Champaign
 
 
 
