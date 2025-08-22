@@ -8,6 +8,10 @@ nav: true
 
 ## Courses Taught as Instructor of Record
 
+**Spatial Data Science (GISC 4381/6321)**, Fall 2025  
+Geospatial Information Sciences, UT Dallas  
+*This course aims to help students develop knowledge and skills to ask spatial questions, find, process and analyze spatial data, solve spatial problems, and communicate their findings.*
+
 **Business Location Decisions (GGIS/BADM 205)**, Spring 2023  
 Department of Geography and Geographic Information Science, UIUC  
 [Syllabus available here](/assets/pdf/GGIS205-Spring2023.pdf)  
