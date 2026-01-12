@@ -7,6 +7,8 @@ nav: false
 ---
 
 
+THIS PAGE IS DEPRECATED, PLEASE SEE CV FOR FULL LISTING
+
 <!---
 Github badges from : https://ghbtns.com/
 Docker badges: https://shields.io/category/downloads

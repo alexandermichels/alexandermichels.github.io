@@ -8,7 +8,7 @@ profile:
   align: right
   image: Defense2-Square.jpeg
   address: >
-    <p>The Univerity of Texas at Dallas</p>
+    <p>The University of Texas at Dallas</p>
     <p>800 W. Campbell Road, GR 31</p>
     <p>Richardson, TX 75080</p>
 
