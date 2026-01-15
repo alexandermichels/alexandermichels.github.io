@@ -18,9 +18,19 @@ Please feel free to send an email or stop by my office to chat!
 
 UTDallas has multiple excellent degree programs including:
 
+**Bachelors**  
+
+* [Bachelor of Science in Computational and Geospatial Science](https://academics.utdallas.edu/fact-sheets/epps/bachelor-of-science-in-computational-and-geospatial-science/)
 * [Bachelor of Science in Geospatial Information Sciences](https://www.utdallas.edu/fact-sheets/epps/bs-geospatial-information-sciences/)
+* [Bachelor of Science in Sustainability Planning and Policy](https://catalog.utdallas.edu/2025/undergraduate/programs/epps/sustainability-planning-and-policy)
+
+**Masters**  
+
 * [Master of Science in Geospatial Information Sciences](https://www.utdallas.edu/fact-sheets/epps/ms-geospatial-information-sciences/)
 * [Master of Science in Social Data Analytics and Research](https://www.utdallas.edu/fact-sheets/epps/ms-social-data-analytics-and-research/)
+
+**Doctoral**  
+
 * [Doctor of Philosophy in Geospatial Information Sciences](https://www.utdallas.edu/fact-sheets/epps/phd-geospatial-information-sciences/)
 
 If you are interested in applying to UTDallas and wish to work with me, please send me an email with your CV and a brief research statement.
