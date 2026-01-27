@@ -13,6 +13,15 @@ I am open to mentoring students of all levels and backgrounds if you are interes
 
 I am happy to work with undergraduates or graduate students at UTD with similar research interests.
 Please feel free to send an email or stop by my office to chat!
+I am happy to work with students from a broad array of disciplines including (but not limited to) computer science, data science, geography/GIS, and public health.
+Projects are varied, including:
+
+* Software development work on GitHub to support open-source software and systems.
+* Artificial Intelligence/Machine Learning work to analyze policy and space.
+* Data science and engineering to better model the real-world.
+* Applying spatial data science to real-world issues including public health, transportation, and planning.
+
+<object data="../assets/pdf/URAP2026Flyer.pdf" width="100%" height="1000px" type='application/pdf'></object>
 
 ## Applying to UTDallas
 
