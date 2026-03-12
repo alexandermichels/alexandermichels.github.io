@@ -16,7 +16,6 @@ nav: true
     <li><a href="#prof-exp">Professional Experience</a></li>
     <li><a href="#edu">Education</a></li>
     <li><a href="#pub">Publications</a></li>
-    <li><a href="#pres">Presentations</a></li>
 </ul>
 
 
@@ -81,6 +80,7 @@ Honors Thesis: "Capturing the Predictive Power of Cortical Learning Algorithms"
 ## [Publications](#pub)
 
 See [publications page](/publications/)
+
 
 
 

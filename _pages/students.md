@@ -21,7 +21,7 @@ Projects are varied, including:
 * Data science and engineering to better model the real-world.
 * Applying spatial data science to real-world issues including public health, transportation, and planning.
 
-<object data="../assets/pdf/URAP2026Flyer.pdf" width="100%" height="1000px" type='application/pdf'></object>
+
 
 ## Applying to UTDallas
 
