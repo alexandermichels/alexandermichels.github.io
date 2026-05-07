@@ -20,6 +20,6 @@ social: true  # includes social icons at the bottom of the page
 Alex Michels is currently an Assistant Professor in the School of Economic, Political and Policy Sciences at The University of Texas at Dallas. He obtained his Ph.D. in Informatics in 2025 and M.S. in Geography in 2024, both from the University of Illinois Urbana-Champaign. Alex's research focuses on geospatial data science and cyberGIS to address societal challenges.
 
 If you're interested in my work or collaborating, please feel free to reach out! 
-If you want to chat over coffee, we can meet on campus at UTD or I'm planning to attend these upcoming events in-person:
+<!-- If you want to chat over coffee, we can meet on campus at UTD or I'm planning to attend these upcoming events in-person: -->
 
-* Mar 17-21, 2026: [2026 American Association of Geographers (AAG) Annual Meeting](https://www.aag.org/events/aag2026/)
+University of Texas at Dallas students interested in working with me can reach out directly or use the [Apply to join a research lab](https://profiles.utdallas.edu/students/about) page.

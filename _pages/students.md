@@ -14,6 +14,7 @@ I am open to mentoring students of all levels and backgrounds if you are interes
 I am happy to work with undergraduates or graduate students at UTD with similar research interests.
 Please feel free to send an email or stop by my office to chat!
 I am happy to work with students from a broad array of disciplines including (but not limited to) computer science, data science, geography/GIS, and public health.
+
 Projects are varied, including:
 
 * Software development work on GitHub to support open-source software and systems.
@@ -21,7 +22,7 @@ Projects are varied, including:
 * Data science and engineering to better model the real-world.
 * Applying spatial data science to real-world issues including public health, transportation, and planning.
 
-
+You can apply by directly reaching out or through the [Apply to join a research lab](https://profiles.utdallas.edu/students/about) link.
 
 ## Applying to UTDallas
 
