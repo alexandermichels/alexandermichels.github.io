@@ -7,7 +7,7 @@ nav: true
 ---
 
 
-I am open to mentoring students of all levels and backgrounds if you are interested in researching/working on topics aligned with my expertise (e.g., spatial data science, spatial computing, cyberGIS, spatial accessibility).
+I am open to mentoring students of all levels and backgrounds if you are interested in researching/working on topics aligned with my expertise (e.g., health geography, environmental health, spatial accessibility, spatial data science).
 
 ## Current UTDallas Students
 
@@ -22,7 +22,7 @@ Projects are varied, including:
 * Data science and engineering to better model the real-world.
 * Applying spatial data science to real-world issues including public health, transportation, and planning.
 
-You can apply by directly reaching out or through the [Apply to join a research lab](https://profiles.utdallas.edu/students/about) link.
+You can apply by directly reaching out or through the [Apply to join a research lab](https://profiles.utdallas.edu/students/about) link. **If you apply through UTD Profiles, I recommend also sending me an email, I get lots of generic applications through there.**
 
 ## Applying to UTDallas
 
@@ -43,4 +43,4 @@ UTDallas has multiple excellent degree programs including:
 
 * [Doctor of Philosophy in Geospatial Information Sciences](https://www.utdallas.edu/fact-sheets/epps/phd-geospatial-information-sciences/)
 
-If you are interested in applying to UTDallas and wish to work with me, please send me an email with your CV and a brief research statement.
+If you are interested in applying to UTDallas and wish to work with me, please send me an email with your CV and a brief research statement. *Competitive PhD applicants already have a Masters degree (or equivalent), an educational background in GIS or a related field, and some research experience.*
