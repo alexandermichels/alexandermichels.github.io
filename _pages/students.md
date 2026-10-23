@@ -43,4 +43,6 @@ UTDallas has multiple excellent degree programs including:
 
 * [Doctor of Philosophy in Geospatial Information Sciences](https://www.utdallas.edu/fact-sheets/epps/phd-geospatial-information-sciences/)
 
-If you are interested in applying to UTDallas and wish to work with me, please send me an email with your CV and a brief research statement. *Competitive PhD applicants already have a Masters degree (or equivalent), an educational background in GIS or a related field, and some research experience.*
+[Scholarships and fellowships are available!](https://epps.utdallas.edu/future-students/scholarships/)
+
+If you are interested in applying to UTDallas and wish to work with me, please send me an email with your CV and a brief research statement. *Competitive PhD applicants already have a Masters degree (or equivalent), an educational background in GIS or a related field, programming experience, and some research experience.*
