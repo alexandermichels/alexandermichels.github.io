@@ -47,6 +47,13 @@
   type: "journal"
   desc: "The Journal of Artificial Societies and Social Simulation is an interdisciplinary journal for the exploration and understanding of social processes by means of computer simulation."
 
+"JSTARS":
+  name: "IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing"
+  url: "https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=4609443"
+  type: "journal"
+  desc: "The IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing addresses the growing field of applications in Earth observations and remote sensing, and also provides a venue for the rapidly expanding special issues that are being sponsored by the IEEE Geosciences and Remote Sensing Society."
+
+
 "PLOS ONE":
   name: "PLOS ONE"
   url: "https://journals.plos.org/plosone/"
